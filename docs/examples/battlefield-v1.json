@@ -1,0 +1,79 @@
+{
+  "region": "s01",
+  "name": "발렌하임",
+  "biome": "mountain",
+  "tiles": [
+    "..r.fh..hhhf.h.h#h..h.hhhhh.hr..",
+    "..r.hhh.h.hh.hfh#hhhhhhhhh.fhr..",
+    "..rhh...hhfhhhh.#fhfhhh.hhh.hr..",
+    "..rhfhhhhhfhhfhhhhhh.h.fhhhhhr..",
+    "..rhh...h.ff.hhf#hhhhhhhhhh.hr..",
+    "..r..h.fhhhh.hh.#hh.h.hh.hhhhr..",
+    "..r.h.fhfhhhhhhh#.h...hh...h.r..",
+    "..rhhfhhh.fh.hhh#hhh..h..hh..r..",
+    "rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",
+    "..rhfhh.fhhffhhhfffh.hhh.fhhhr..",
+    "..r.hh.hfhfhhhhh#fhf.hfhfhhhfr..",
+    "..rhh.hhhhh.hfhh#hhhhhh.hhhffr..",
+    "..r.hfffhf.hhhhf#.h.h.hh.hh..r..",
+    "..r.h.hfh.hhhh..#hfffhf.h.hfhr..",
+    "..rhhfhfhhhhhhhh#hhh.hfh...hhr..",
+    "..rffhhhhfh.f.hh#fhhh.fhhhhh.r..",
+    "..rh.hhhhhfhhhhh#hfhhhhh.h.h.r..",
+    "..r.h.f.fhhhhh.h#hh.hf.hf.hhhr..",
+    "..r.hh..hhhhhfhh#hhhfh.hhfhhhr..",
+    "....hf.hhhfh.hff#.fhhhhhh.h.f..."
+  ],
+  "spawns": [
+    [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        2,
+        17
+      ]
+    ],
+    [
+      [
+        29,
+        2
+      ],
+      [
+        29,
+        5
+      ],
+      [
+        29,
+        9
+      ],
+      [
+        29,
+        13
+      ],
+      [
+        29,
+        17
+      ]
+    ]
+  ],
+  "objective": [
+    18,
+    8
+  ],
+  "revision": 1,
+  "schema": 1
+}

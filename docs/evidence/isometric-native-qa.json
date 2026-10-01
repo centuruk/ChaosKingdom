@@ -1,0 +1,14 @@
+{
+  "game": "0.3.0-beta.1",
+  "date": "2026-10-01",
+  "platform": "macOS arm64",
+  "new_native_window_input_status": "launch_and_campaign_load_verified",
+  "previous_attempt": "Mac 화면 잠금으로 앱 재실행 UI 도구가 중단됨. 사용자에게 수동 잠금 해제를 요청함.",
+  "followup": "2026-10-01 사용자 실행 요청에 따라 dist/ChaosKingdom.app 실행, 창 Raise, 저장한 이야기 버튼 클릭 후 실제 지도 화면 확인. 메뉴에서 v0.3.0-beta.1 확인.",
+  "verified_scope": "아델 발렌의 기존 29주 캠페인 불러오기와 지도 표시. 주차 진행·전투·편집기 조작은 이번 실행 확인 범위에 포함되지 않음.",
+  "old_app_quit_before_build": true,
+  "new_app_build": "success",
+  "new_app_headless_archive_checks": "passed; docs/evidence/beta-package.json",
+  "legacy_campaign_headless_load": "passed; docs/evidence/isometric-legacy-save.json",
+  "no_native_playtest_claim": true
+}

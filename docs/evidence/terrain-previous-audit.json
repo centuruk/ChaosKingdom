@@ -1,0 +1,957 @@
+{
+  "environment": {
+    "game": "0.2.0-beta.1",
+    "python": "3.12.14",
+    "platform": "Darwin",
+    "architecture": "arm64",
+    "pygame": "2.5.8",
+    "save_schema": 1
+  },
+  "maps": [
+    {
+      "region": "s00",
+      "biome": "plains",
+      "winner": 1,
+      "time": 136.8,
+      "casualties": [
+        714,
+        576
+      ],
+      "control": [
+        18.999999999999964,
+        13.999999999999982
+      ]
+    },
+    {
+      "region": "s01",
+      "biome": "mountain",
+      "winner": 0,
+      "time": 69.6,
+      "casualties": [
+        545,
+        614
+      ],
+      "control": [
+        9.599999999999998,
+        46.60000000000012
+      ]
+    },
+    {
+      "region": "s02",
+      "biome": "plains",
+      "winner": 0,
+      "time": 68.2,
+      "casualties": [
+        557,
+        611
+      ],
+      "control": [
+        3.0000000000000004,
+        0.0
+      ]
+    },
+    {
+      "region": "s03",
+      "biome": "mountain",
+      "winner": 1,
+      "time": 84.2,
+      "casualties": [
+        719,
+        513
+      ],
+      "control": [
+        12.999999999999986,
+        0.0
+      ]
+    },
+    {
+      "region": "s04",
+      "biome": "plains",
+      "winner": 0,
+      "time": 69.8,
+      "casualties": [
+        505,
+        589
+      ],
+      "control": [
+        7.800000000000004,
+        0.0
+      ]
+    },
+    {
+      "region": "s05",
+      "biome": "river",
+      "winner": 0,
+      "time": 64.0,
+      "casualties": [
+        481,
+        615
+      ],
+      "control": [
+        9.2,
+        0.0
+      ]
+    },
+    {
+      "region": "s06",
+      "biome": "river",
+      "winner": 0,
+      "time": 67.0,
+      "casualties": [
+        531,
+        613
+      ],
+      "control": [
+        8.400000000000002,
+        42.20000000000006
+      ]
+    },
+    {
+      "region": "s07",
+      "biome": "mountain",
+      "winner": 0,
+      "time": 65.6,
+      "casualties": [
+        531,
+        614
+      ],
+      "control": [
+        7.600000000000004,
+        42.00000000000006
+      ]
+    },
+    {
+      "region": "s08",
+      "biome": "river",
+      "winner": 0,
+      "time": 101.2,
+      "casualties": [
+        602,
+        613
+      ],
+      "control": [
+        11.99999999999999,
+        0.0
+      ]
+    },
+    {
+      "region": "s09",
+      "biome": "coast",
+      "winner": 0,
+      "time": 69.8,
+      "casualties": [
+        542,
+        606
+      ],
+      "control": [
+        9.2,
+        42.20000000000006
+      ]
+    },
+    {
+      "region": "s10",
+      "biome": "river",
+      "winner": 0,
+      "time": 64.6,
+      "casualties": [
+        530,
+        613
+      ],
+      "control": [
+        9.599999999999998,
+        0.0
+      ]
+    },
+    {
+      "region": "s11",
+      "biome": "river",
+      "winner": 0,
+      "time": 64.4,
+      "casualties": [
+        526,
+        614
+      ],
+      "control": [
+        9.399999999999999,
+        0.0
+      ]
+    },
+    {
+      "region": "s12",
+      "biome": "forest",
+      "winner": 0,
+      "time": 77.6,
+      "casualties": [
+        555,
+        583
+      ],
+      "control": [
+        13.599999999999984,
+        34.59999999999995
+      ]
+    },
+    {
+      "region": "s13",
+      "biome": "forest",
+      "winner": 0,
+      "time": 71.6,
+      "casualties": [
+        583,
+        610
+      ],
+      "control": [
+        5.400000000000002,
+        45.400000000000105
+      ]
+    },
+    {
+      "region": "s14",
+      "biome": "plains",
+      "winner": 0,
+      "time": 62.0,
+      "casualties": [
+        486,
+        590
+      ],
+      "control": [
+        8.000000000000004,
+        0.0
+      ]
+    },
+    {
+      "region": "s15",
+      "biome": "forest",
+      "winner": 0,
+      "time": 88.6,
+      "casualties": [
+        493,
+        600
+      ],
+      "control": [
+        49.600000000000165,
+        2.8000000000000003
+      ]
+    },
+    {
+      "region": "s16",
+      "biome": "plains",
+      "winner": 0,
+      "time": 83.0,
+      "casualties": [
+        633,
+        604
+      ],
+      "control": [
+        7.600000000000004,
+        0.0
+      ]
+    },
+    {
+      "region": "s17",
+      "biome": "plains",
+      "winner": 0,
+      "time": 76.4,
+      "casualties": [
+        448,
+        591
+      ],
+      "control": [
+        15.199999999999978,
+        0.0
+      ]
+    },
+    {
+      "region": "s18",
+      "biome": "river",
+      "winner": 0,
+      "time": 68.8,
+      "casualties": [
+        577,
+        612
+      ],
+      "control": [
+        3.2000000000000006,
+        45.60000000000011
+      ]
+    },
+    {
+      "region": "s19",
+      "biome": "coast",
+      "winner": 0,
+      "time": 68.4,
+      "casualties": [
+        540,
+        615
+      ],
+      "control": [
+        5.400000000000002,
+        37.599999999999994
+      ]
+    },
+    {
+      "region": "s20",
+      "biome": "river",
+      "winner": 1,
+      "time": 96.6,
+      "casualties": [
+        721,
+        521
+      ],
+      "control": [
+        10.199999999999996,
+        0.0
+      ]
+    },
+    {
+      "region": "s21",
+      "biome": "mountain",
+      "winner": 0,
+      "time": 72.6,
+      "casualties": [
+        611,
+        610
+      ],
+      "control": [
+        9.599999999999998,
+        45.2000000000001
+      ]
+    },
+    {
+      "region": "s22",
+      "biome": "plains",
+      "winner": 0,
+      "time": 63.8,
+      "casualties": [
+        427,
+        602
+      ],
+      "control": [
+        7.400000000000004,
+        0.0
+      ]
+    },
+    {
+      "region": "s23",
+      "biome": "mountain",
+      "winner": 0,
+      "time": 69.8,
+      "casualties": [
+        520,
+        614
+      ],
+      "control": [
+        11.99999999999999,
+        36.39999999999998
+      ]
+    },
+    {
+      "region": "s24",
+      "biome": "forest",
+      "winner": 0,
+      "time": 79.6,
+      "casualties": [
+        550,
+        587
+      ],
+      "control": [
+        12.399999999999988,
+        34.199999999999946
+      ]
+    },
+    {
+      "region": "s25",
+      "biome": "mountain",
+      "winner": 0,
+      "time": 65.0,
+      "casualties": [
+        525,
+        614
+      ],
+      "control": [
+        9.599999999999998,
+        0.0
+      ]
+    },
+    {
+      "region": "s26",
+      "biome": "mountain",
+      "winner": 1,
+      "time": 100.4,
+      "casualties": [
+        719,
+        530
+      ],
+      "control": [
+        10.399999999999995,
+        0.0
+      ]
+    },
+    {
+      "region": "s27",
+      "biome": "river",
+      "winner": 0,
+      "time": 71.6,
+      "casualties": [
+        516,
+        602
+      ],
+      "control": [
+        10.399999999999995,
+        45.2000000000001
+      ]
+    },
+    {
+      "region": "s28",
+      "biome": "river",
+      "winner": 0,
+      "time": 69.0,
+      "casualties": [
+        577,
+        613
+      ],
+      "control": [
+        9.399999999999999,
+        0.0
+      ]
+    },
+    {
+      "region": "s29",
+      "biome": "coast",
+      "winner": 0,
+      "time": 61.6,
+      "casualties": [
+        410,
+        611
+      ],
+      "control": [
+        10.399999999999995,
+        0.0
+      ]
+    },
+    {
+      "region": "s30",
+      "biome": "plains",
+      "winner": 1,
+      "time": 141.8,
+      "casualties": [
+        719,
+        554
+      ],
+      "control": [
+        25.59999999999994,
+        14.199999999999982
+      ]
+    },
+    {
+      "region": "s31",
+      "biome": "forest",
+      "winner": 1,
+      "time": 104.8,
+      "casualties": [
+        720,
+        527
+      ],
+      "control": [
+        13.799999999999983,
+        39.000000000000014
+      ]
+    },
+    {
+      "region": "s32",
+      "biome": "river",
+      "winner": 1,
+      "time": 103.2,
+      "casualties": [
+        720,
+        569
+      ],
+      "control": [
+        10.399999999999995,
+        1.2
+      ]
+    },
+    {
+      "region": "s33",
+      "biome": "forest",
+      "winner": 0,
+      "time": 82.0,
+      "casualties": [
+        571,
+        599
+      ],
+      "control": [
+        14.199999999999982,
+        21.999999999999954
+      ]
+    },
+    {
+      "region": "s34",
+      "biome": "river",
+      "winner": 0,
+      "time": 66.0,
+      "casualties": [
+        540,
+        614
+      ],
+      "control": [
+        9.399999999999999,
+        0.0
+      ]
+    },
+    {
+      "region": "s35",
+      "biome": "forest",
+      "winner": 0,
+      "time": 75.2,
+      "casualties": [
+        478,
+        615
+      ],
+      "control": [
+        9.2,
+        0.0
+      ]
+    },
+    {
+      "region": "s36",
+      "biome": "mountain",
+      "winner": 0,
+      "time": 74.6,
+      "casualties": [
+        567,
+        613
+      ],
+      "control": [
+        8.400000000000002,
+        51.40000000000019
+      ]
+    },
+    {
+      "region": "s37",
+      "biome": "plains",
+      "winner": 0,
+      "time": 63.4,
+      "casualties": [
+        461,
+        612
+      ],
+      "control": [
+        3.2000000000000006,
+        0.0
+      ]
+    },
+    {
+      "region": "s38",
+      "biome": "mountain",
+      "winner": 1,
+      "time": 92.2,
+      "casualties": [
+        721,
+        508
+      ],
+      "control": [
+        10.999999999999993,
+        1.9999999999999998
+      ]
+    },
+    {
+      "region": "s39",
+      "biome": "coast",
+      "winner": 0,
+      "time": 75.2,
+      "casualties": [
+        591,
+        613
+      ],
+      "control": [
+        9.2,
+        48.200000000000145
+      ]
+    },
+    {
+      "region": "s40",
+      "biome": "plains",
+      "winner": 0,
+      "time": 59.8,
+      "casualties": [
+        389,
+        565
+      ],
+      "control": [
+        9.2,
+        0.0
+      ]
+    },
+    {
+      "region": "s41",
+      "biome": "river",
+      "winner": 0,
+      "time": 74.8,
+      "casualties": [
+        529,
+        613
+      ],
+      "control": [
+        13.399999999999984,
+        0.0
+      ]
+    },
+    {
+      "region": "s42",
+      "biome": "mountain",
+      "winner": 0,
+      "time": 66.6,
+      "casualties": [
+        526,
+        615
+      ],
+      "control": [
+        5.8000000000000025,
+        41.00000000000004
+      ]
+    },
+    {
+      "region": "s43",
+      "biome": "forest",
+      "winner": 0,
+      "time": 132.8,
+      "casualties": [
+        658,
+        599
+      ],
+      "control": [
+        8.600000000000001,
+        19.79999999999996
+      ]
+    },
+    {
+      "region": "s44",
+      "biome": "mountain",
+      "winner": 1,
+      "time": 96.6,
+      "casualties": [
+        719,
+        520
+      ],
+      "control": [
+        11.59999999999999,
+        1.2
+      ]
+    },
+    {
+      "region": "s45",
+      "biome": "mountain",
+      "winner": 1,
+      "time": 87.8,
+      "casualties": [
+        718,
+        514
+      ],
+      "control": [
+        13.799999999999983,
+        0.0
+      ]
+    },
+    {
+      "region": "s46",
+      "biome": "river",
+      "winner": 0,
+      "time": 98.4,
+      "casualties": [
+        668,
+        607
+      ],
+      "control": [
+        16.99999999999997,
+        46.000000000000114
+      ]
+    },
+    {
+      "region": "s47",
+      "biome": "plains",
+      "winner": 0,
+      "time": 81.8,
+      "casualties": [
+        633,
+        614
+      ],
+      "control": [
+        4.400000000000001,
+        0.0
+      ]
+    },
+    {
+      "region": "s48",
+      "biome": "plains",
+      "winner": 0,
+      "time": 78.8,
+      "casualties": [
+        494,
+        553
+      ],
+      "control": [
+        9.799999999999997,
+        27.199999999999935
+      ]
+    },
+    {
+      "region": "s49",
+      "biome": "coast",
+      "winner": 0,
+      "time": 65.2,
+      "casualties": [
+        527,
+        615
+      ],
+      "control": [
+        3.800000000000001,
+        40.60000000000004
+      ]
+    }
+  ],
+  "history": [
+    {
+      "title": "자율 역사",
+      "seed": 742,
+      "turn": 480,
+      "date": "752년 · 봄 · 1주",
+      "castles": 20,
+      "outposts": 30,
+      "officers": 200,
+      "battles": 24,
+      "total_battles": 320,
+      "event_totals": {
+        "origin": 1,
+        "capture": 28,
+        "battle": 320,
+        "bond": 5858,
+        "incident": 96,
+        "war": 47,
+        "release": 28,
+        "defection": 49,
+        "promotion": 346,
+        "diplomacy": 38
+      },
+      "bonds": 1020,
+      "factions": [
+        {
+          "name": "발렌 왕국",
+          "holdings": 6,
+          "soldiers": 5847,
+          "eliminated": false
+        },
+        {
+          "name": "서리늑대 공국",
+          "holdings": 10,
+          "soldiers": 9542,
+          "eliminated": false
+        },
+        {
+          "name": "적사자 연맹",
+          "holdings": 5,
+          "soldiers": 3015,
+          "eliminated": false
+        },
+        {
+          "name": "아우렐 상업동맹",
+          "holdings": 8,
+          "soldiers": 7837,
+          "eliminated": false
+        },
+        {
+          "name": "에메랄드 변경령",
+          "holdings": 14,
+          "soldiers": 10507,
+          "eliminated": false
+        },
+        {
+          "name": "자색 성좌국",
+          "holdings": 7,
+          "soldiers": 6930,
+          "eliminated": false
+        }
+      ],
+      "last_actions": {
+        "bond": 82,
+        "rest": 38,
+        "develop": 13,
+        "train": 39,
+        "travel": 17,
+        "recruit": 7,
+        "patrol": 4
+      }
+    },
+    {
+      "title": "자율 역사",
+      "seed": 1304,
+      "turn": 480,
+      "date": "752년 · 봄 · 1주",
+      "castles": 20,
+      "outposts": 30,
+      "officers": 200,
+      "battles": 42,
+      "total_battles": 320,
+      "event_totals": {
+        "origin": 1,
+        "battle": 320,
+        "bond": 4030,
+        "incident": 96,
+        "war": 16,
+        "promotion": 422,
+        "defection": 87,
+        "capture": 10,
+        "release": 10,
+        "diplomacy": 9
+      },
+      "bonds": 1004,
+      "factions": [
+        {
+          "name": "발렌 왕국",
+          "holdings": 6,
+          "soldiers": 5607,
+          "eliminated": false
+        },
+        {
+          "name": "서리늑대 공국",
+          "holdings": 8,
+          "soldiers": 7176,
+          "eliminated": false
+        },
+        {
+          "name": "적사자 연맹",
+          "holdings": 7,
+          "soldiers": 6409,
+          "eliminated": false
+        },
+        {
+          "name": "아우렐 상업동맹",
+          "holdings": 9,
+          "soldiers": 7674,
+          "eliminated": false
+        },
+        {
+          "name": "에메랄드 변경령",
+          "holdings": 6,
+          "soldiers": 5807,
+          "eliminated": false
+        },
+        {
+          "name": "자색 성좌국",
+          "holdings": 14,
+          "soldiers": 12103,
+          "eliminated": false
+        }
+      ],
+      "last_actions": {
+        "develop": 11,
+        "train": 22,
+        "bond": 79,
+        "rest": 42,
+        "travel": 33,
+        "recruit": 11,
+        "patrol": 2
+      }
+    },
+    {
+      "title": "자율 역사",
+      "seed": 9102,
+      "turn": 480,
+      "date": "752년 · 봄 · 1주",
+      "castles": 20,
+      "outposts": 30,
+      "officers": 200,
+      "battles": 18,
+      "total_battles": 320,
+      "event_totals": {
+        "origin": 1,
+        "battle": 320,
+        "incident": 96,
+        "bond": 7352,
+        "defection": 21,
+        "promotion": 290,
+        "war": 43,
+        "capture": 23,
+        "release": 23,
+        "diplomacy": 35
+      },
+      "bonds": 1355,
+      "factions": [
+        {
+          "name": "발렌 왕국",
+          "holdings": 4,
+          "soldiers": 3357,
+          "eliminated": false
+        },
+        {
+          "name": "서리늑대 공국",
+          "holdings": 8,
+          "soldiers": 6671,
+          "eliminated": false
+        },
+        {
+          "name": "적사자 연맹",
+          "holdings": 3,
+          "soldiers": 2879,
+          "eliminated": false
+        },
+        {
+          "name": "아우렐 상업동맹",
+          "holdings": 9,
+          "soldiers": 8819,
+          "eliminated": false
+        },
+        {
+          "name": "에메랄드 변경령",
+          "holdings": 12,
+          "soldiers": 10075,
+          "eliminated": false
+        },
+        {
+          "name": "자색 성좌국",
+          "holdings": 14,
+          "soldiers": 13644,
+          "eliminated": false
+        }
+      ],
+      "last_actions": {
+        "bond": 61,
+        "develop": 24,
+        "train": 32,
+        "recruit": 11,
+        "rest": 44,
+        "travel": 23,
+        "patrol": 5
+      }
+    }
+  ],
+  "roles": [
+    {
+      "officer": "o024",
+      "turn": 120,
+      "outcome": "세라 애쉬포드, 영지의 수호자. 96주의 명성 739, 승전 0회, 과업 3/5.",
+      "quests": 3,
+      "rank": 3,
+      "victories": 0,
+      "valid": true
+    },
+    {
+      "officer": "o180",
+      "turn": 120,
+      "outcome": "아델 드라벤, 새 시대의 증인. 96주의 명성 596, 승전 0회, 과업 2/5.",
+      "quests": 2,
+      "rank": 3,
+      "victories": 0,
+      "valid": true
+    },
+    {
+      "officer": "o000",
+      "turn": 120,
+      "outcome": "아델 발렌, 새 시대의 증인. 96주의 명성 1009, 승전 0회, 과업 2/5.",
+      "quests": 2,
+      "rank": 4,
+      "victories": 0,
+      "valid": true
+    }
+  ],
+  "elapsed_seconds": 30.523
+}

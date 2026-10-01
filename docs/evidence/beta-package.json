@@ -1,0 +1,47 @@
+{
+  "game": "0.3.0-beta.2",
+  "source_archive_crc_valid": true,
+  "source_excludes_user_saves": true,
+  "target": "macOS arm64",
+  "native_archive_crc_valid": true,
+  "framework_symlinks": 91,
+  "executable_permission_preserved": true,
+  "unpacked_app_checks": [
+    {
+      "command": [
+        "doctor"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "validate-maps"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "play",
+        "--headless",
+        "--frames",
+        "2",
+        "--view",
+        "editor"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "play",
+        "--headless",
+        "--frames",
+        "2",
+        "--view",
+        "battle"
+      ],
+      "exit_code": 0
+    }
+  ],
+  "regional_maps": 50,
+  "generated_assets": 11
+}

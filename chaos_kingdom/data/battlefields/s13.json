@@ -1,0 +1,79 @@
+{
+  "region": "s13",
+  "name": "바람 들판",
+  "biome": "forest",
+  "tiles": [
+    "..r...........fffffff........r..",
+    "..r.......fffffffffff........r..",
+    "..r......fffffffffffff.......r..",
+    "..r.fffffffffffffffffff......r..",
+    "..r.ffffffffffffffffff.......r..",
+    "..r..ffffffffff..fff.........r..",
+    "..r...ffffffff...............r..",
+    "..r..fffffffrrrrrrrrrrrrrrrrrr..",
+    "..rhhffrrrrrrf...............rrr",
+    "rrrrrrrrffffff.......ffffff..r..",
+    "..r.ffffffff.......ffffffffffr..",
+    "..r.hhfhh........ffffffffffffr..",
+    "..rhhhhhfffff.....fffffffffffr..",
+    "..r..ffffffff......ffffffffffr..",
+    "..r.fffffffff......ffffffffffr..",
+    "..rffffffffff........fffffff.r..",
+    "..rfffffffffff.........f.....r..",
+    "..rffffffffffff..............r..",
+    "..rffffffffffff..............r..",
+    "...fffffffffff.................."
+  ],
+  "spawns": [
+    [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        2,
+        17
+      ]
+    ],
+    [
+      [
+        29,
+        2
+      ],
+      [
+        29,
+        5
+      ],
+      [
+        29,
+        9
+      ],
+      [
+        29,
+        13
+      ],
+      [
+        29,
+        17
+      ]
+    ]
+  ],
+  "objective": [
+    20,
+    7
+  ],
+  "revision": 3,
+  "schema": 1
+}

@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "execution": "single_controller",
+  "actual_development_agents": 1,
+  "specialists_status": "role_contracts_not_spawned",
+  "game_runtime": "offline utility and tactical AI; no LLM calls",
+  "art_provider": "Codex built-in GPT Image Generator",
+  "roles": [
+    {
+      "id": "controller",
+      "name": "총괄",
+      "instructions": "작업 범위와 공통 계약을 관리하고 구현·원고·검증을 통합한다.",
+      "inputs": [
+        "AGENTS.md",
+        "README.md",
+        "docs/evidence/verification.md"
+      ],
+      "outputs": [
+        "승인된 요구에 맞는 통합 결과",
+        "검증 결과와 남은 플랫폼 확인 항목"
+      ],
+      "acceptance": "새 결과의 기능·원고·증거가 서로 일치한다."
+    },
+    {
+      "id": "design",
+      "name": "게임 설계",
+      "instructions": "플레이 흐름과 행동 분포를 읽고 변경 이유와 비교 조건을 정의한다.",
+      "inputs": [
+        "docs/book/01-design.md",
+        "docs/evidence/beta-audit.json"
+      ],
+      "outputs": [
+        "규칙 변경 근거",
+        "동일 조건의 전후 비교"
+      ],
+      "acceptance": "수치 변경의 목적과 비교 조건이 명시된다."
+    },
+    {
+      "id": "simulation",
+      "name": "시뮬레이션",
+      "instructions": "세계·주간 AI·경제·관계·개인 과업을 구현한다.",
+      "inputs": [
+        "chaos_kingdom/core/models.py",
+        "chaos_kingdom/simulation/ai.py",
+        "chaos_kingdom/simulation/engine.py"
+      ],
+      "outputs": [
+        "순수 Python 시뮬레이션 코드",
+        "시드와 저장 재현 검사"
+      ],
+      "acceptance": "200명·20성·30거점·병력 상한과 저장 호환성을 지킨다."
+    },
+    {
+      "id": "tactics_tools",
+      "name": "전술과 제작 도구",
+      "instructions": "전장 스키마를 공유하는 전투와 맵 에디터를 구현한다.",
+      "inputs": [
+        "chaos_kingdom/core/battlefields.py",
+        "tests/test_beta.py"
+      ],
+      "outputs": [
+        "지역 지형·경로·시야 코드",
+        "검증 가능한 편집기"
+      ],
+      "acceptance": "경로와 시험 전투가 같은 지형을 읽고 결과가 한 번만 반영된다."
+    },
+    {
+      "id": "art",
+      "name": "아트 제작",
+      "instructions": "용도·팔레트·배치 제약으로 GPT Image Generator 자산을 만들고 주소표와 출처를 남긴다.",
+      "inputs": [
+        "chaos_kingdom/assets/manifest.json",
+        "docs/book/15-image-production.md"
+      ],
+      "outputs": [
+        "생성 원본과 프로젝트 사본",
+        "프롬프트·초상 주소·적용 화면"
+      ],
+      "acceptance": "200명 주소가 중복되지 않고 실제 화면에서 확인된다."
+    },
+    {
+      "id": "qa",
+      "name": "검증",
+      "instructions": "작성자의 주장에 반례를 찾고 실제 실행 환경과 실패를 기록한다.",
+      "inputs": [
+        "tests/test_beta.py",
+        "tools/beta_audit.py"
+      ],
+      "outputs": [
+        "검사 로그",
+        "재현 가능한 제보 상태",
+        "플랫폼 확인표"
+      ],
+      "acceptance": "통과·실패·미확인을 구분하며 사람이 테스트했다고 추정하지 않는다."
+    },
+    {
+      "id": "author",
+      "name": "원고 집필",
+      "instructions": "변경 이유와 실제 실험을 한국어 개발 원고로 설명한다.",
+      "inputs": [
+        "docs/book/README.md",
+        "docs/evidence/verification.md"
+      ],
+      "outputs": [
+        "설계·구현·실험 원고",
+        "실제 화면과 공식 출처"
+      ],
+      "acceptance": "현재 구현·역사적 실험·후속 제안을 구분한다."
+    }
+  ]
+}

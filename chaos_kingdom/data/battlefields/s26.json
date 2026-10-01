@@ -1,0 +1,79 @@
+{
+  "region": "s26",
+  "name": "아우렐 성",
+  "biome": "mountain",
+  "tiles": [
+    "..r.....f....................r..",
+    "..r....ffffff............####g##",
+    "..r....ffffffhhhh........#...r.#",
+    "..r.....ffffhhhhffh......#...r.#",
+    "..r.....fffhhhhhfffffhhh.#...r.#",
+    "..r.....f..hhhhhfffffffh.grrrr.#",
+    "..r........hhhhffffffffh.#...r.#",
+    "..r.........hhhhfffffff..#...r.#",
+    "rrrrrrrrrrrrrrrrrff......#...r.#",
+    "..r..........hhhrrrrrr...#...r.#",
+    "..r..................rrrrgrrrrrg",
+    "..r......................#hhhr.#",
+    "..r...................hhh#hhhr.#",
+    "..r.hhhh.........hhhhhhhhgrrrr.#",
+    "..rhhhhhhh....hhhhhhhhhhh#hhhr.#",
+    "..rhhhhhhhh...hhhhhhhhhhh#hhhr.#",
+    "..rhhhffhh.....hhhhhhhhhh#hhhr.#",
+    "..rffffff.......hhhhhhhhh#hhhr.#",
+    "..rffffff........hhhhhhhh####g##",
+    "...hhhfff.........hhhhhhhhh....."
+  ],
+  "spawns": [
+    [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        2,
+        17
+      ]
+    ],
+    [
+      [
+        29,
+        2
+      ],
+      [
+        29,
+        5
+      ],
+      [
+        29,
+        9
+      ],
+      [
+        29,
+        13
+      ],
+      [
+        29,
+        17
+      ]
+    ]
+  ],
+  "objective": [
+    27,
+    10
+  ],
+  "revision": 3,
+  "schema": 1
+}

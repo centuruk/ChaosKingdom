@@ -1,0 +1,79 @@
+{
+  "region": "s44",
+  "name": "별빛 사원",
+  "biome": "mountain",
+  "tiles": [
+    "..r..........................r..",
+    "..r.hhh......................r..",
+    "..rhhhhh.....................r..",
+    "..rhhhhh.....................r..",
+    "..rhhhhh.....................r..",
+    "..rhhhhhh.hhh...........hhh..r..",
+    "..rhhhhhhhhhhh.........hhhhh.r..",
+    "..rhhhhhhhhhhh...hhhhhhhhhhhhr..",
+    "..rhhhhhhhhhhff..hhhhhhhhrrrrrrr",
+    "rrrrhhhhhhhhffffffffrrrrrrhhhr..",
+    "..rrrrrrrrrrrrrrrrrrrhhhhhhh.r..",
+    "..rhhhhhhhhhfffffff.hhhhhhhh.r..",
+    "..r..hhhhhhhhffhhh.....hhhh..r..",
+    "..r..hhhhhhhhhhh......ffff...r..",
+    "..r.hhhhhhhhhhh.......ffff...r..",
+    "..rhhhhhhhhh.........ffffff..r..",
+    "..rhhhhfffhh.........ffffff..r..",
+    "..rffffffff..................r..",
+    "..rffffffff..................r..",
+    "....ffffff......................"
+  ],
+  "spawns": [
+    [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        2,
+        17
+      ]
+    ],
+    [
+      [
+        29,
+        2
+      ],
+      [
+        29,
+        5
+      ],
+      [
+        29,
+        9
+      ],
+      [
+        29,
+        13
+      ],
+      [
+        29,
+        17
+      ]
+    ]
+  ],
+  "objective": [
+    21,
+    9
+  ],
+  "revision": 3,
+  "schema": 1
+}

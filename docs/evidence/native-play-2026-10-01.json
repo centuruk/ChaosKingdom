@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-01",
+  "mode": "native_macOS_UI",
+  "operator": "Codex primary agent",
+  "build": "0.2.0-beta.1",
+  "app": "dist/ChaosKingdom.app",
+  "campaign": {
+    "title": "왕관 없는 새벽",
+    "seed": 742,
+    "history_weeks": 24,
+    "final_turn": 29,
+    "played_weeks": 5
+  },
+  "actions": [
+    "발렌하임 내정",
+    "벨라 발렌과 교류",
+    "새벽관 이동",
+    "늙은 제분소 진군 및 직접 지휘",
+    "늙은 제분소 순찰",
+    "저장"
+  ],
+  "battle_observed": {
+    "name": "늙은 제분소",
+    "terrain": "river",
+    "deployed": [
+      820,
+      1000
+    ],
+    "UI_elapsed_seconds": 164,
+    "result": "승전",
+    "reason": "적 부대 와해",
+    "losses": [
+      219,
+      883
+    ],
+    "survivors": [
+      601,
+      117
+    ]
+  },
+  "restart_observed": {
+    "UI_elapsed_seconds": 78,
+    "troops_before": [
+      613,
+      509
+    ],
+    "troops_after": [
+      613,
+      509
+    ],
+    "positions_visually_preserved": true,
+    "loaded_paused": true,
+    "speed_before": 2,
+    "speed_after": 1
+  },
+  "final_player": {
+    "id": "o000",
+    "name": "아델 발렌",
+    "location": "늙은 제분소",
+    "renown": 812,
+    "gold": 565,
+    "energy": 45,
+    "victories": 1
+  },
+  "final_location": {
+    "id": "s10",
+    "faction": "f0",
+    "governor": "o000",
+    "troops": 420,
+    "food": 2941.764,
+    "treasury": 894.8400000000003,
+    "prosperity": 73.94,
+    "morale": 60.2
+  },
+  "quests": [
+    {
+      "id": "q0",
+      "title": "첫 번째 맹우",
+      "complete": true,
+      "progress": 100,
+      "target": 40
+    },
+    {
+      "id": "q1",
+      "title": "영지의 등불",
+      "complete": false,
+      "progress": 2,
+      "target": 4
+    },
+    {
+      "id": "q2",
+      "title": "첫 승전",
+      "complete": true,
+      "progress": 1,
+      "target": 1
+    },
+    {
+      "id": "q3",
+      "title": "흔들린 영지의 재건",
+      "complete": false,
+      "progress": 1,
+      "target": 6
+    },
+    {
+      "id": "q4",
+      "title": "기억에서 이어진 인연",
+      "complete": true,
+      "progress": 96,
+      "target": 60
+    }
+  ],
+  "save_verification": {
+    "world_validated": true,
+    "world_checksum": "5db4f4e59defba54594e48a049f914b77ff6deb3d32af061689bd3e088cadf3a",
+    "active_battle": false,
+    "officers": 200,
+    "castles": 20,
+    "outposts": 30
+  },
+  "limits": [
+    "한 캠페인의 5주와 강 전장 1회 관찰",
+    "방어전·패전·96주 결말·Windows 실행은 이번 플레이에서 확인하지 않음",
+    "자동 검사를 실제 UI 플레이로 대체하지 않음"
+  ],
+  "improvements_observed": [
+    "교전 부대의 좌표 겹침으로 아군·적군을 구분하기 어려움",
+    "교량과 거점에 대한 수비 AI의 집단 대응이 약함",
+    "번영 100인 수도의 재건 과업과 시작부터 달성한 친밀도 목표",
+    "승리 조건과 선택 부대의 현재 명령 표시 부족"
+  ]
+}

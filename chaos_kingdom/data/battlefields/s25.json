@@ -1,0 +1,79 @@
+{
+  "region": "s25",
+  "name": "십자로",
+  "biome": "mountain",
+  "tiles": [
+    "..r........hh................r..",
+    "..r.......hhhhh....fffff.....r..",
+    "..r.......hhhhhhfffffffff....r..",
+    "..r.......hhhhhffffffffff....r..",
+    "..r......hhhhhhfffffffff.....r..",
+    "..r......hhhhhhhhhhfffff.....r..",
+    "..r......hhhhhhhhhhh.fff.....r..",
+    "rrrrrrrrrrrrrrrrrrh..........r..",
+    "..rhhhhhhhhhhhhhhrrrrrr......r..",
+    "..rhhhhhhhhhhhhhhhhhh.rrrrrrrrrr",
+    "..rhhhhhhhhhhhhhhhhhh........r..",
+    "..rhhhhhhhhhhhhhhhhh.........r..",
+    "..rhhhhhhhhhhhhhhhhhh........r..",
+    "..r..h.....hhhhhhhhhhh.ff....r..",
+    "..r........hhhhhhhhhfffffffffr..",
+    "..r.........hhhhhhhhfffffffffr..",
+    "..r..........hhhhhhhhffffffhhr..",
+    "..r............hhhhhhhfffffhhr..",
+    "..r.............hhhhhhffffhhhr..",
+    "..................hhhhhhhhhh...."
+  ],
+  "spawns": [
+    [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        2,
+        17
+      ]
+    ],
+    [
+      [
+        29,
+        2
+      ],
+      [
+        29,
+        5
+      ],
+      [
+        29,
+        9
+      ],
+      [
+        29,
+        13
+      ],
+      [
+        29,
+        17
+      ]
+    ]
+  ],
+  "objective": [
+    17,
+    8
+  ],
+  "revision": 3,
+  "schema": 1
+}

@@ -1,0 +1,13 @@
+{
+  "game": "0.3.0-beta.1",
+  "native_binary_used": "/Users/centuruk/Downloads/Codex_CC/ChaosKingdom/dist/ChaosKingdom.app/Contents/MacOS/ChaosKingdom",
+  "mode": "headless; not native window interaction",
+  "legacy_turn": 29,
+  "legacy_player": "o000",
+  "legacy_data_preserved": true,
+  "source_save_unchanged": true,
+  "source_file_sha256": "4ec320083a4cc6885648246c1d4a646f5356a7f517f18ac6472ce2a5eae27bd4",
+  "inspect_exit_code": 0,
+  "render_exit_code": 0,
+  "screenshot": "docs/images/legacy-campaign.png"
+}

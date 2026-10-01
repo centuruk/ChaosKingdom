@@ -1,0 +1,79 @@
+{
+  "region": "s15",
+  "name": "에버홀드",
+  "biome": "forest",
+  "tiles": [
+    "..r..........................r..",
+    "..r.ffff.................####g##",
+    "..rffffffffff............#...r.#",
+    "..rffffffffff.........#####..r.#",
+    "..rfffffffff.............#...r.#",
+    "..rfffffffhhhh...........grrrr.#",
+    "..r..ff.hhhhh............#...r.#",
+    "..r......hhh.............#...r.#",
+    "..r.......hh.hh..........#...r.#",
+    "..r.......rrrrrrrrrrrrrrrgrrrr.#",
+    "..r..rrrrrrhhhhh.........grrrrrg",
+    "rrrrrrffffffhhhh.........#...r.#",
+    "..rfffffffffffff.........#...r.#",
+    "..rfffffffffffff.........grrrr.#",
+    "..rfffffffffffff.ffff....#...r.#",
+    "..rfffffffffffffffffff...#...r.#",
+    "..rffffffffffffffffffff..#...r.#",
+    "..rffffffffffffffffffff..#...r.#",
+    "..r..fffffffffffffff.....####g##",
+    ".......ffffffffff..............."
+  ],
+  "spawns": [
+    [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        2,
+        17
+      ]
+    ],
+    [
+      [
+        29,
+        2
+      ],
+      [
+        29,
+        5
+      ],
+      [
+        29,
+        9
+      ],
+      [
+        29,
+        13
+      ],
+      [
+        29,
+        17
+      ]
+    ]
+  ],
+  "objective": [
+    27,
+    10
+  ],
+  "revision": 3,
+  "schema": 1
+}

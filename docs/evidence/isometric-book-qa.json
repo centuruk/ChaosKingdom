@@ -1,0 +1,12 @@
+{
+  "game": "0.3.0-beta.1",
+  "date": "2026-10-01",
+  "chapters": 18,
+  "embedded_images": 10,
+  "all_images_loaded": true,
+  "horizontal_overflow": false,
+  "verified_url": "http://127.0.0.1:8765/book.html#chapter-13-development-agents",
+  "chapter_top_pixels": 25.03125,
+  "skill_ledger_visible": true,
+  "browser": "Codex in-app browser; unified-computer-use"
+}

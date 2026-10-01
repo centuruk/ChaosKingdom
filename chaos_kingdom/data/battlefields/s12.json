@@ -1,0 +1,79 @@
+{
+  "region": "s12",
+  "name": "세레스 성",
+  "biome": "forest",
+  "tiles": [
+    "..r........ff................r..",
+    "..r......ffffff..........####g##",
+    "..r......fffffffffff.....#...r.#",
+    "..r..fffffffffffffffff#####..r.#",
+    "..rfffffffffffffffffffff.#...r.#",
+    "..rffffffffffffffffffff..grrrr.#",
+    "..rffffffffffrrrrrrrrrrrrgrrrrr#",
+    "..r..fffrrrrrrffffffff...#...rrg",
+    "rrrrrrrrrfffffff.ffff....#...r.#",
+    "..rfffffffffff..hhhhhhfff#ff.r.#",
+    "..rfffffffffff...hhhfffff#fffr.#",
+    "..rfffffffffff...hfffffff#fffr.#",
+    "..r.fffffffff....ffffffff#fffr.#",
+    "..r.....fffff...fffffffffgrrrr.#",
+    "..r......ff.....fffffffff#fffr.#",
+    "..r......................#...r.#",
+    "..r......................#...r.#",
+    "..r......................#...r.#",
+    "..r......................####g##",
+    "................................"
+  ],
+  "spawns": [
+    [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        2,
+        17
+      ]
+    ],
+    [
+      [
+        29,
+        2
+      ],
+      [
+        29,
+        5
+      ],
+      [
+        29,
+        9
+      ],
+      [
+        29,
+        13
+      ],
+      [
+        29,
+        17
+      ]
+    ]
+  ],
+  "objective": [
+    27,
+    6
+  ],
+  "revision": 3,
+  "schema": 1
+}

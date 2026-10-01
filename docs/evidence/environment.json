@@ -1,0 +1,12 @@
+{
+  "python": "3.12.14",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "pygame": "2.5.8",
+  "pygame_ce": true,
+  "architecture": "arm64",
+  "supported_targets": [
+    "Windows 10/11",
+    "macOS"
+  ],
+  "save_schema": 1
+}

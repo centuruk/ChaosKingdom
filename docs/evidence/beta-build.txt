@@ -1,0 +1,82 @@
+16 INFO: PyInstaller: 6.16.0, contrib hooks: 2026.8
+16 INFO: Python: 3.12.14
+21 INFO: Platform: macOS-26.6.2-arm64-arm-64bit
+22 INFO: Python environment: /Users/centuruk/Downloads/Codex_CC/ChaosKingdom/.venv
+22 INFO: wrote /Users/centuruk/Downloads/Codex_CC/ChaosKingdom/ChaosKingdom.spec
+23 INFO: Removing temporary files and cleaning cache in /Users/centuruk/Downloads/Codex_CC/ChaosKingdom/build/pyinstaller-cache/pyinstaller
+34 INFO: Module search paths (PYTHONPATH):
+['/Users/centuruk/Downloads/Codex_CC/ChaosKingdom',
+ '/Users/centuruk/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python312.zip',
+ '/Users/centuruk/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12',
+ '/Users/centuruk/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/lib-dynload',
+ '/Users/centuruk/Downloads/Codex_CC/ChaosKingdom/.venv/lib/python3.12/site-packages',
+ '/Users/centuruk/Downloads/Codex_CC/ChaosKingdom']
+pygame-ce 2.5.8 (SDL 2.32.10, Python 3.12.14)
+123 INFO: Appending 'datas' from .spec
+123 INFO: checking Analysis
+123 INFO: Building Analysis because Analysis-00.toc is non existent
+123 INFO: Looking for Python shared library...
+128 INFO: Using Python shared library: /Users/centuruk/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/libpython3.12.dylib
+129 INFO: Running Analysis Analysis-00.toc
+129 INFO: Target bytecode optimization level: 0
+129 INFO: Initializing module dependency graph...
+129 INFO: Initializing module graph hook caches...
+131 INFO: Analyzing modules for base_library.zip ...
+370 INFO: Processing standard module hook 'hook-heapq.py' from '/Users/centuruk/Downloads/Codex_CC/ChaosKingdom/.venv/lib/python3.12/site-packages/PyInstaller/hooks'
+396 INFO: Processing standard module hook 'hook-encodings.py' from '/Users/centuruk/Downloads/Codex_CC/ChaosKingdom/.venv/lib/python3.12/site-packages/PyInstaller/hooks'
+875 INFO: Processing standard module hook 'hook-pickle.py' from '/Users/centuruk/Downloads/Codex_CC/ChaosKingdom/.venv/lib/python3.12/site-packages/PyInstaller/hooks'
+1240 INFO: Caching module dependency graph...
+1251 INFO: Analyzing /Users/centuruk/Downloads/Codex_CC/ChaosKingdom/launch.py
+1272 INFO: Processing standard module hook 'hook-platform.py' from '/Users/centuruk/Downloads/Codex_CC/ChaosKingdom/.venv/lib/python3.12/site-packages/PyInstaller/hooks'
+1282 INFO: Processing standard module hook 'hook-xml.py' from '/Users/centuruk/Downloads/Codex_CC/ChaosKingdom/.venv/lib/python3.12/site-packages/PyInstaller/hooks'
+1344 INFO: Processing standard module hook 'hook-pygame.py' from '/Users/centuruk/Downloads/Codex_CC/ChaosKingdom/.venv/lib/python3.12/site-packages/pygame/__pyinstaller'
+1376 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from '/Users/centuruk/Downloads/Codex_CC/ChaosKingdom/.venv/lib/python3.12/site-packages/PyInstaller/hooks/pre_safe_import_module'
+1376 INFO: SetuptoolsInfo: initializing cached setuptools info...
+1572 INFO: Processing standard module hook 'hook-difflib.py' from '/Users/centuruk/Downloads/Codex_CC/ChaosKingdom/.venv/lib/python3.12/site-packages/PyInstaller/hooks'
+1595 INFO: Processing standard module hook 'hook-sysconfig.py' from '/Users/centuruk/Downloads/Codex_CC/ChaosKingdom/.venv/lib/python3.12/site-packages/PyInstaller/hooks'
+1599 INFO: Processing standard module hook 'hook-_osx_support.py' from '/Users/centuruk/Downloads/Codex_CC/ChaosKingdom/.venv/lib/python3.12/site-packages/PyInstaller/hooks'
+1614 INFO: Processing module hooks (post-graph stage)...
+1715 INFO: Performing binary vs. data reclassification (64 entries)
+1718 INFO: Looking for ctypes DLLs
+1720 INFO: Analyzing run-time hooks ...
+1720 INFO: Including run-time hook 'pyi_rth_inspect.py' from '/Users/centuruk/Downloads/Codex_CC/ChaosKingdom/.venv/lib/python3.12/site-packages/PyInstaller/hooks/rthooks'
+1723 INFO: Creating base_library.zip...
+1730 INFO: Looking for dynamic libraries
+1839 INFO: Warnings written to /Users/centuruk/Downloads/Codex_CC/ChaosKingdom/build/ChaosKingdom/warn-ChaosKingdom.txt
+1843 INFO: Graph cross-reference written to /Users/centuruk/Downloads/Codex_CC/ChaosKingdom/build/ChaosKingdom/xref-ChaosKingdom.html
+1882 INFO: checking PYZ
+1882 INFO: Building PYZ because PYZ-00.toc is non existent
+1882 INFO: Building PYZ (ZlibArchive) /Users/centuruk/Downloads/Codex_CC/ChaosKingdom/build/ChaosKingdom/PYZ-00.pyz
+1976 INFO: Building PYZ (ZlibArchive) /Users/centuruk/Downloads/Codex_CC/ChaosKingdom/build/ChaosKingdom/PYZ-00.pyz completed successfully.
+1977 INFO: EXE target arch: arm64
+1977 INFO: Code signing identity: None
+1980 INFO: checking PKG
+1980 INFO: Building PKG because PKG-00.toc is non existent
+1980 INFO: Building PKG (CArchive) ChaosKingdom.pkg
+1984 INFO: Building PKG (CArchive) ChaosKingdom.pkg completed successfully.
+1984 INFO: Bootloader /Users/centuruk/Downloads/Codex_CC/ChaosKingdom/.venv/lib/python3.12/site-packages/PyInstaller/bootloader/Darwin-64bit/runw
+1985 INFO: checking EXE
+1985 INFO: Building EXE because EXE-00.toc is non existent
+1985 INFO: Building EXE from EXE-00.toc
+1985 INFO: Copying bootloader EXE to /Users/centuruk/Downloads/Codex_CC/ChaosKingdom/build/ChaosKingdom/ChaosKingdom
+1985 INFO: Converting EXE to target arch (arm64)
+1995 INFO: Removing signature(s) from EXE
+2004 INFO: Modifying Mach-O image UUID(s) in EXE
+2005 INFO: Appending PKG archive to EXE
+2005 INFO: Fixing EXE headers for code signing
+2008 INFO: Rewriting the executable's macOS SDK version (15.5.0) to match the SDK version of the Python library (15.0.0) in order to avoid inconsistent behavior and potential UI issues in the frozen application.
+2008 INFO: Re-signing the EXE
+2018 INFO: Building EXE from EXE-00.toc completed successfully.
+2019 INFO: checking COLLECT
+2019 INFO: Building COLLECT because COLLECT-00.toc is non existent
+2019 INFO: Removing dir /Users/centuruk/Downloads/Codex_CC/ChaosKingdom/dist/ChaosKingdom
+2025 INFO: Building COLLECT COLLECT-00.toc
+3911 INFO: Building COLLECT COLLECT-00.toc completed successfully.
+3913 INFO: checking BUNDLE
+3913 INFO: Building BUNDLE because BUNDLE-00.toc is non existent
+3913 INFO: Removing dir /Users/centuruk/Downloads/Codex_CC/ChaosKingdom/dist/ChaosKingdom.app
+3921 INFO: Building BUNDLE BUNDLE-00.toc
+4981 INFO: Signing the BUNDLE...
+5026 INFO: Building BUNDLE BUNDLE-00.toc completed successfully.
+5027 INFO: Build complete! The results are available in: /Users/centuruk/Downloads/Codex_CC/ChaosKingdom/dist
+pygame-ce 2.5.8 (SDL 2.32.10, Python 3.12.14)

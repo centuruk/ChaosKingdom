@@ -1,0 +1,79 @@
+{
+  "region": "s35",
+  "name": "오래된 벌목장",
+  "biome": "forest",
+  "tiles": [
+    "..r.......fffff..............r..",
+    "..r.......ffffffff...........r..",
+    "..r......fffffffff...........r..",
+    "..r....fffffffffff...........r..",
+    "..r.ffffffffffffff....hhh....r..",
+    "..r.fffffffffffff.....hhhhhh.r..",
+    "..r..ffffffff.fffff..hhhhhhhhr..",
+    "..rfffffff....ffffff.hhhhhhhhr..",
+    "..rfffffffff..ffffff..hhhh...r..",
+    "..rfffffffffffffffff.........r..",
+    "..rffffffffffffffffffhh......r..",
+    "rrrrrrrrffffffffffffhhhh.....r..",
+    "..rffffrrrrrrffffffhhhhhh....rrr",
+    "..r......fffrrrrrrrrrrrrrrrrrr..",
+    "..r........ffffffffffffff....r..",
+    "..r.........fffffffffffff....r..",
+    "..r...........ffffffffff.....r..",
+    "..r............ffffffff......r..",
+    "..r...............fffff......r..",
+    "................................"
+  ],
+  "spawns": [
+    [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        2,
+        17
+      ]
+    ],
+    [
+      [
+        29,
+        2
+      ],
+      [
+        29,
+        5
+      ],
+      [
+        29,
+        9
+      ],
+      [
+        29,
+        13
+      ],
+      [
+        29,
+        17
+      ]
+    ]
+  ],
+  "objective": [
+    17,
+    13
+  ],
+  "revision": 3,
+  "schema": 1
+}

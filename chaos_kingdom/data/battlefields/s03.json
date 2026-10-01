@@ -1,0 +1,79 @@
+{
+  "region": "s03",
+  "name": "브린 성",
+  "biome": "mountain",
+  "tiles": [
+    "..r...hhhhhhhh...............r..",
+    "..r...hffhhhhhh..........####g##",
+    "..r..hhffffhhhh..........#...r.#",
+    "..r.hhhfffffhhhh......#####..r.#",
+    "..r.hhffffffhhhhhh.......#...r.#",
+    "..rhhhhfffffhhhhhh.......grrrr.#",
+    "..rhhhhfffhhhhhhh........#...r.#",
+    "..rhhhhhhhhhh.....hh.....#...r.#",
+    "..r.hhhhhhhhhhhhhhhhhhh..#...r.#",
+    "..r.......hhhhhhhhhhhhrrrgrrrrrg",
+    "..r.......hhhhhhhrrrrrrff#fffr.#",
+    "rrrrrrrrrrrrrrrrrrhhhhfff#fffr.#",
+    "..r...hh....ffffffhhhh...#ff.r.#",
+    "..r..hhhh..fffffffh......grrrr.#",
+    "..rhhhhhhffffffffff......#...r.#",
+    "..rhhhhhhh..ffffff.......#...r.#",
+    "..rhhhhhhh...............#...r.#",
+    "..rhhhhhhh...............#...r.#",
+    "..rhhhhhh................####g##",
+    "...hhhhhh......................."
+  ],
+  "spawns": [
+    [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        2,
+        17
+      ]
+    ],
+    [
+      [
+        29,
+        2
+      ],
+      [
+        29,
+        5
+      ],
+      [
+        29,
+        9
+      ],
+      [
+        29,
+        13
+      ],
+      [
+        29,
+        17
+      ]
+    ]
+  ],
+  "objective": [
+    27,
+    9
+  ],
+  "revision": 3,
+  "schema": 1
+}

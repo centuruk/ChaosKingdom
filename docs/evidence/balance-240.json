@@ -1,0 +1,365 @@
+{
+  "weeks": 240,
+  "runs": [
+    {
+      "title": "자율 역사",
+      "seed": 742,
+      "turn": 240,
+      "date": "747년 · 봄 · 1주",
+      "castles": 20,
+      "outposts": 30,
+      "officers": 200,
+      "battles": 26,
+      "total_battles": 160,
+      "event_totals": {
+        "origin": 1,
+        "battle": 160,
+        "bond": 2043,
+        "incident": 48,
+        "war": 10,
+        "capture": 7,
+        "defection": 30,
+        "release": 7,
+        "promotion": 307,
+        "diplomacy": 3
+      },
+      "bonds": 659,
+      "factions": [
+        {
+          "name": "발렌 왕국",
+          "holdings": 7,
+          "soldiers": 6215,
+          "eliminated": false
+        },
+        {
+          "name": "서리늑대 공국",
+          "holdings": 8,
+          "soldiers": 7777,
+          "eliminated": false
+        },
+        {
+          "name": "적사자 연맹",
+          "holdings": 9,
+          "soldiers": 7011,
+          "eliminated": false
+        },
+        {
+          "name": "아우렐 상업동맹",
+          "holdings": 10,
+          "soldiers": 9808,
+          "eliminated": false
+        },
+        {
+          "name": "에메랄드 변경령",
+          "holdings": 10,
+          "soldiers": 8505,
+          "eliminated": false
+        },
+        {
+          "name": "자색 성좌국",
+          "holdings": 6,
+          "soldiers": 5850,
+          "eliminated": false
+        }
+      ],
+      "last_actions": {
+        "recruit": 10,
+        "rest": 50,
+        "train": 37,
+        "bond": 73,
+        "develop": 13,
+        "travel": 14,
+        "patrol": 3
+      },
+      "mean_loyalty": 74.32
+    },
+    {
+      "title": "자율 역사",
+      "seed": 743,
+      "turn": 240,
+      "date": "747년 · 봄 · 1주",
+      "castles": 20,
+      "outposts": 30,
+      "officers": 200,
+      "battles": 34,
+      "total_battles": 160,
+      "event_totals": {
+        "origin": 1,
+        "battle": 160,
+        "capture": 7,
+        "bond": 1693,
+        "incident": 48,
+        "war": 17,
+        "release": 7,
+        "defection": 25,
+        "promotion": 298,
+        "diplomacy": 12
+      },
+      "bonds": 518,
+      "factions": [
+        {
+          "name": "발렌 왕국",
+          "holdings": 7,
+          "soldiers": 6212,
+          "eliminated": false
+        },
+        {
+          "name": "서리늑대 공국",
+          "holdings": 6,
+          "soldiers": 4251,
+          "eliminated": false
+        },
+        {
+          "name": "적사자 연맹",
+          "holdings": 8,
+          "soldiers": 6749,
+          "eliminated": false
+        },
+        {
+          "name": "아우렐 상업동맹",
+          "holdings": 3,
+          "soldiers": 2189,
+          "eliminated": false
+        },
+        {
+          "name": "에메랄드 변경령",
+          "holdings": 9,
+          "soldiers": 8030,
+          "eliminated": false
+        },
+        {
+          "name": "자색 성좌국",
+          "holdings": 17,
+          "soldiers": 14638,
+          "eliminated": false
+        }
+      ],
+      "last_actions": {
+        "train": 40,
+        "bond": 92,
+        "travel": 5,
+        "develop": 13,
+        "rest": 38,
+        "recruit": 10,
+        "patrol": 2
+      },
+      "mean_loyalty": 76.28
+    },
+    {
+      "title": "자율 역사",
+      "seed": 744,
+      "turn": 240,
+      "date": "747년 · 봄 · 1주",
+      "castles": 20,
+      "outposts": 30,
+      "officers": 200,
+      "battles": 65,
+      "total_battles": 160,
+      "event_totals": {
+        "origin": 1,
+        "bond": 1014,
+        "battle": 160,
+        "incident": 48,
+        "war": 18,
+        "defection": 37,
+        "promotion": 322,
+        "diplomacy": 14,
+        "capture": 3,
+        "release": 3
+      },
+      "bonds": 306,
+      "factions": [
+        {
+          "name": "발렌 왕국",
+          "holdings": 4,
+          "soldiers": 3489,
+          "eliminated": false
+        },
+        {
+          "name": "서리늑대 공국",
+          "holdings": 10,
+          "soldiers": 9455,
+          "eliminated": false
+        },
+        {
+          "name": "적사자 연맹",
+          "holdings": 4,
+          "soldiers": 2986,
+          "eliminated": false
+        },
+        {
+          "name": "아우렐 상업동맹",
+          "holdings": 5,
+          "soldiers": 3991,
+          "eliminated": false
+        },
+        {
+          "name": "에메랄드 변경령",
+          "holdings": 14,
+          "soldiers": 12400,
+          "eliminated": false
+        },
+        {
+          "name": "자색 성좌국",
+          "holdings": 13,
+          "soldiers": 12627,
+          "eliminated": false
+        }
+      ],
+      "last_actions": {
+        "bond": 91,
+        "recruit": 8,
+        "train": 32,
+        "rest": 39,
+        "travel": 18,
+        "develop": 10,
+        "patrol": 2
+      },
+      "mean_loyalty": 80.52
+    },
+    {
+      "title": "자율 역사",
+      "seed": 745,
+      "turn": 240,
+      "date": "747년 · 봄 · 1주",
+      "castles": 20,
+      "outposts": 30,
+      "officers": 200,
+      "battles": 34,
+      "total_battles": 160,
+      "event_totals": {
+        "origin": 1,
+        "battle": 160,
+        "capture": 9,
+        "bond": 1553,
+        "incident": 48,
+        "war": 15,
+        "release": 9,
+        "defection": 20,
+        "promotion": 288,
+        "diplomacy": 9
+      },
+      "bonds": 536,
+      "factions": [
+        {
+          "name": "발렌 왕국",
+          "holdings": 9,
+          "soldiers": 6192,
+          "eliminated": false
+        },
+        {
+          "name": "서리늑대 공국",
+          "holdings": 4,
+          "soldiers": 4000,
+          "eliminated": false
+        },
+        {
+          "name": "적사자 연맹",
+          "holdings": 3,
+          "soldiers": 3000,
+          "eliminated": false
+        },
+        {
+          "name": "아우렐 상업동맹",
+          "holdings": 10,
+          "soldiers": 9299,
+          "eliminated": false
+        },
+        {
+          "name": "에메랄드 변경령",
+          "holdings": 14,
+          "soldiers": 12306,
+          "eliminated": false
+        },
+        {
+          "name": "자색 성좌국",
+          "holdings": 10,
+          "soldiers": 9472,
+          "eliminated": false
+        }
+      ],
+      "last_actions": {
+        "bond": 84,
+        "rest": 43,
+        "train": 35,
+        "patrol": 2,
+        "develop": 9,
+        "travel": 14,
+        "recruit": 13
+      },
+      "mean_loyalty": 74.65
+    },
+    {
+      "title": "자율 역사",
+      "seed": 746,
+      "turn": 240,
+      "date": "747년 · 봄 · 1주",
+      "castles": 20,
+      "outposts": 30,
+      "officers": 200,
+      "battles": 34,
+      "total_battles": 160,
+      "event_totals": {
+        "origin": 1,
+        "bond": 1777,
+        "capture": 2,
+        "battle": 160,
+        "incident": 48,
+        "war": 8,
+        "release": 2,
+        "promotion": 304,
+        "defection": 28,
+        "diplomacy": 1
+      },
+      "bonds": 426,
+      "factions": [
+        {
+          "name": "발렌 왕국",
+          "holdings": 10,
+          "soldiers": 8378,
+          "eliminated": false
+        },
+        {
+          "name": "서리늑대 공국",
+          "holdings": 10,
+          "soldiers": 7780,
+          "eliminated": false
+        },
+        {
+          "name": "적사자 연맹",
+          "holdings": 4,
+          "soldiers": 4000,
+          "eliminated": false
+        },
+        {
+          "name": "아우렐 상업동맹",
+          "holdings": 7,
+          "soldiers": 6731,
+          "eliminated": false
+        },
+        {
+          "name": "에메랄드 변경령",
+          "holdings": 6,
+          "soldiers": 5918,
+          "eliminated": false
+        },
+        {
+          "name": "자색 성좌국",
+          "holdings": 13,
+          "soldiers": 10636,
+          "eliminated": false
+        }
+      ],
+      "last_actions": {
+        "bond": 89,
+        "train": 32,
+        "rest": 33,
+        "patrol": 6,
+        "travel": 24,
+        "develop": 10,
+        "recruit": 6
+      },
+      "mean_loyalty": 75.87
+    }
+  ]
+}

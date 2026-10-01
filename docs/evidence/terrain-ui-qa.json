@@ -1,0 +1,29 @@
+{
+  "target": "macOS arm64",
+  "built_app": "dist/ChaosKingdom.app",
+  "map_revision": 2,
+  "native_ui": {
+    "mountain_materials_visible": true,
+    "river_materials_visible": true,
+    "grid_mouse_toggle_on_and_off": true,
+    "river_trial_elapsed_display_seconds": 39,
+    "troops_at_pause": [
+      438,
+      463
+    ],
+    "initial_troops": [
+      820,
+      780
+    ],
+    "retreat_confirmation_result_and_editor_return": true,
+    "new_native_keyboard_validation": false
+  },
+  "book_browser": {
+    "chapters": 18,
+    "figures": 7,
+    "loaded_figures": 7,
+    "broken_anchors": 0,
+    "horizontal_overflow": 0,
+    "oop_and_agent_sections_present": true
+  }
+}

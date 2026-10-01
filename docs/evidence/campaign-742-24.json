@@ -1,0 +1,76 @@
+{
+  "title": "왕관 없는 새벽",
+  "seed": 742,
+  "turn": 24,
+  "date": "742년 · 가을 · 1주",
+  "castles": 20,
+  "outposts": 30,
+  "officers": 200,
+  "battles": 16,
+  "total_battles": 16,
+  "event_totals": {
+    "origin": 1,
+    "battle": 16,
+    "bond": 89,
+    "incident": 4,
+    "war": 6,
+    "capture": 1,
+    "defection": 2,
+    "release": 1,
+    "promotion": 91
+  },
+  "bonds": 86,
+  "factions": [
+    {
+      "name": "발렌 왕국",
+      "holdings": 9,
+      "soldiers": 7191,
+      "eliminated": false
+    },
+    {
+      "name": "서리늑대 공국",
+      "holdings": 9,
+      "soldiers": 5964,
+      "eliminated": false
+    },
+    {
+      "name": "적사자 연맹",
+      "holdings": 5,
+      "soldiers": 3841,
+      "eliminated": false
+    },
+    {
+      "name": "아우렐 상업동맹",
+      "holdings": 8,
+      "soldiers": 5634,
+      "eliminated": false
+    },
+    {
+      "name": "에메랄드 변경령",
+      "holdings": 10,
+      "soldiers": 7318,
+      "eliminated": false
+    },
+    {
+      "name": "자색 성좌국",
+      "holdings": 9,
+      "soldiers": 7228,
+      "eliminated": false
+    }
+  ],
+  "elapsed_seconds": 0.115,
+  "recent_events": [
+    "엘리안 모르겐가 대장로 승진했다.",
+    "이졸데 모르겐가 대장로 승진했다.",
+    "카시안 모르겐가 대장로 승진했다.",
+    "베렌 라벤가 대장로 승진했다.",
+    "마리엔 솔라가 대장로 승진했다.",
+    "로웬 그레이가 대장로 승진했다.",
+    "발렌 왕국가 서리늑대 공국에 선전포고했다.",
+    "발렌 왕국가 아우렐 상업동맹에 선전포고했다.",
+    "발렌 왕국가 에메랄드 변경령에 선전포고했다.",
+    "적사자 연맹가 에메랄드 변경령에 선전포고했다.",
+    "솔라리스 전투 — 함락. 루시안 그레이 지휘, 574 대 486명. 손실 276 / 427명.",
+    "로즈홀 전투 — 방어 성공. 벨라 애쉬포드 지휘, 820 대 1000명. 손실 722 / 406명."
+  ]
+}

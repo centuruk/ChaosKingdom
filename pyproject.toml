@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chaos-kingdom"
+version = "0.3.0b2"
+description = "An officer-led medieval strategy game with an emergent history engine"
+requires-python = ">=3.10"
+dependencies = ["pygame-ce==2.5.8"]
+
+[project.optional-dependencies]
+dev = ["pytest==8.4.2", "pyinstaller==6.16.0"]
+
+[project.scripts]
+chaos-kingdom = "chaos_kingdom.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["chaos_kingdom*"]
+
+[tool.setuptools.package-data]
+chaos_kingdom = ["data/*.json", "data/battlefields/*.json", "assets/*.json", "assets/*.png"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

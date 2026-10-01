@@ -1,0 +1,9 @@
+{
+  "actual_cli_invoked": true,
+  "world_digest_matches": true,
+  "battle_digest_matches": true,
+  "battle_time": 1.0,
+  "maps_restored": 50,
+  "existing_user_saves_modified": false,
+  "map_revision": 2
+}

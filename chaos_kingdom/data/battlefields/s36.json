@@ -1,0 +1,79 @@
+{
+  "region": "s36",
+  "name": "미스트 성",
+  "biome": "mountain",
+  "tiles": [
+    "..r..................hh......r..",
+    "..r..............hhhhhhhh####g##",
+    "..r......hhhhhh..hhhhhhhh#h..r.#",
+    "..r..hhhhhhhhhh...hhhh#####..r.#",
+    "..rhhhhhhhhhhhhh...hhhhhh#...r.#",
+    "..rhhhhhhhhhhhhhh..hhhhhhgrrrr.#",
+    "rrrrrrrhhhhhhhhhh.......f#fffr.#",
+    "..rhhhrrrrrrhhhhhhhhh...f#ffrrrg",
+    "..r......hhrrrrrrrrrrrrrrgrrrr.#",
+    "..r......hhhhhhhhhhhhh...#f..r.#",
+    "..r......hhhhhhhhhhhhff..#fffr.#",
+    "..r.......hhhhhhhhfffffff#fffr.#",
+    "..r.......hhhhhhhhhffffff#fffr.#",
+    "..r......hhhhhhhhhhffffffgrrrr.#",
+    "..r.....hhhhhhhhhhhh..fff#fffr.#",
+    "..r.....hhhhhhhhhh.......#fffr.#",
+    "..r......hhhhhhhh........#.f.r.#",
+    "..r.......hhhhhh.........#...r.#",
+    "..r.......hhhhhh.........####g##",
+    "..........hhhhhh................"
+  ],
+  "spawns": [
+    [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        2,
+        17
+      ]
+    ],
+    [
+      [
+        29,
+        2
+      ],
+      [
+        29,
+        5
+      ],
+      [
+        29,
+        9
+      ],
+      [
+        29,
+        13
+      ],
+      [
+        29,
+        17
+      ]
+    ]
+  ],
+  "objective": [
+    27,
+    8
+  ],
+  "revision": 3,
+  "schema": 1
+}

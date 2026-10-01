@@ -1,0 +1,85 @@
+{
+  "schema": 1,
+  "updated": "2026-10-01",
+  "scope": "0.3.0-beta.2 PNG 알파 합성 수정·네이티브 검증·제작 원고",
+  "controller": {
+    "name": "Codex 주 개발 에이전트",
+    "actual_count": 1,
+    "subagents": [],
+    "role_catalog": "docs/production/agents.json",
+    "repository_instructions": "AGENTS.md"
+  },
+  "skills": [
+    {
+      "name": "imagegen",
+      "source": "/Users/centuruk/.codex/skills/.system/imagegen/SKILL.md",
+      "source_sha256": "681ddb4ad6d06a2acc78a3535b583f8d0c1ea800ecda3d56370d3310fd2cd4ba",
+      "status": "applied",
+      "purpose": "GPT Image Generator로 투명 성벽·성문·다리·부대 시트 생성, 원본 보존과 프롬프트·주소 기록",
+      "invoked_tools": [
+        "image_gen.imagegen"
+      ],
+      "external_service_execution": true,
+      "artifacts": [
+        "chaos_kingdom/assets/structures-isometric-v1.png",
+        "chaos_kingdom/assets/units-isometric-v1.png",
+        "docs/production/isometric-structures-prompt.txt",
+        "docs/production/isometric-units-prompt.txt",
+        "docs/production/isometric-structures-request.txt"
+      ],
+      "notes": "내장 도구 사용. 별도 Image API·API 키·CLI 실행 없음"
+    },
+    {
+      "name": "superdesign:superdesign",
+      "source": "/Users/centuruk/.codex/plugins/cache/openai-curated-remote/superdesign/0.6.0/skills/superdesign/SKILL.md",
+      "source_sha256": "f782f8776dbf7277cea88d77ea6dfc35bc0437b02a094ef79bbcfc716ef8c567",
+      "status": "instructions_consulted",
+      "purpose": "독립 게임 이미지 자산의 도구 선택 지침 확인. ASSET_GENERATION.md에 따라 호스트 내장 생성기 사용",
+      "invoked_tools": [],
+      "external_service_execution": false,
+      "artifacts": [],
+      "notes": "Superdesign CLI·캔버스·모델 비교·업로드 미실행. 스킬은 별도 에이전트가 아니다",
+      "references": [
+        {
+          "source": "/Users/centuruk/.codex/plugins/cache/openai-curated-remote/superdesign/0.6.0/skills/superdesign/references/ASSET_GENERATION.md",
+          "sha256": "655fdb83dc3d9603dcf34229f7dc37973275e9484eb4eef75fc8acc6313cb572"
+        }
+      ]
+    }
+  ],
+  "tools": [
+    {
+      "name": "functions.exec / exec_command / apply_patch",
+      "purpose": "로컬 소스·원고 읽기와 수정, 테스트·제작 스크립트 실행"
+    },
+    {
+      "name": "image_gen.imagegen",
+      "purpose": "투명 게임 이미지 생성. 출처·원본·SHA-256은 assets/manifest.json"
+    },
+    {
+      "name": "pytest / validate-maps / beta_audit.py / capture_screens.py",
+      "purpose": "게임 규칙·호환성·지도·장기 실행·실제 PyGame 화면 검증"
+    },
+    {
+      "name": "mcp__cua_repl.js / cua.getApp",
+      "purpose": "macOS 게임 창의 실제 마우스 조작과 화면 관찰. 별도 검증 기록에 범위 명시"
+    }
+  ],
+  "recording_policy": "실제 적용한 지침과 실제 실행한 도구를 구분한다. 별도 에이전트를 실행한 경우에만 실제 작업 ID·담당 파일·산출물·검토 결과를 추가한다. 향후 계획을 실행 기록으로 쓰지 않는다.",
+  "plugins": [
+    {
+      "name": "unified-computer-use",
+      "skill_files_read": [],
+      "invoked_tools": [
+        "mcp__cua_repl.js"
+      ],
+      "purpose": "원고 브라우저 검증, Mac 앱 실제 마우스 조작과 PNG 합성 육안 확인",
+      "execution": "browser_verified; beta.2 native_menu_battle_editor_alpha_visual_review_and_latest_saved_battle_load_verified; keyboard_unverified",
+      "evidence": [
+        "docs/evidence/isometric-book-qa.json",
+        "docs/evidence/isometric-native-qa.json",
+        "docs/evidence/alpha-compositing-qa.json"
+      ]
+    }
+  ]
+}

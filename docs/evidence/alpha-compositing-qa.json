@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-01",
+  "game": "0.3.0-beta.2",
+  "platform": "macOS arm64",
+  "driver": "cocoa",
+  "fix": "explicit 32-bit SRCALPHA canvas; draw begins with opaque BG",
+  "checks": [
+    {
+      "view": "menu",
+      "exit_code": 0,
+      "frame_alpha_min": 255,
+      "frame_alpha_max": 255,
+      "image": "docs/images/alpha-cocoa-menu-after.png"
+    },
+    {
+      "view": "battle",
+      "exit_code": 0,
+      "frame_alpha_min": 255,
+      "frame_alpha_max": 255,
+      "image": "docs/images/alpha-cocoa-battle-after.png"
+    },
+    {
+      "view": "editor",
+      "exit_code": 0,
+      "frame_alpha_min": 255,
+      "frame_alpha_max": 255,
+      "image": "docs/images/alpha-cocoa-editor-after.png"
+    }
+  ],
+  "transparent_ornament_center": {
+    "point": [
+      300,
+      428
+    ],
+    "before_rgba": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "after_rgba": [
+      11,
+      18,
+      19,
+      255
+    ]
+  },
+  "automated_tests": {
+    "count": 73,
+    "passed": true,
+    "elapsed_seconds": 60.3,
+    "regression_before_fix": "three views fail the opacity assertion with original constructor restored in memory",
+    "regression_after_fix": "three views pass; menu transparent center also preserves backdrop"
+  },
+  "map_validation": {
+    "maps": 50,
+    "unique_layouts": 50,
+    "connected": true
+  },
+  "simulation_changes": false,
+  "native_interactive_visual_review": {
+    "tool": "mcp__cua_repl.js",
+    "app": "dist/ChaosKingdom.app",
+    "version_seen": "0.3.0-beta.2",
+    "observed": [
+      "menu ornament has no black rectangle",
+      "paused demo troop and wall sprites preserve terrain",
+      "s01 castle editor walls and towers preserve terrain",
+      "s10 river editor bridges preserve water",
+      "latest saved Everhold battle restored paused at displayed 74 seconds"
+    ],
+    "editor_maps_modified": false,
+    "campaign_or_battle_advanced": false,
+    "keyboard_input_tested": false
+  },
+  "failures_during_investigation": [
+    "PIL is absent in the game venv; used pygame pixel inspection instead",
+    "sandbox Cocoa process exited 134; authorized native display check succeeded outside sandbox",
+    "initial test insertion placed existing editor assertions in the new function, causing three NameError failures; corrected test placement before final 73-test run"
+  ],
+  "asset_originals": {
+    "title.png": "b0e7115e1ca763316ae9f122aea7bac94088603b5a5e51c0bf9a2965bf6ec2a4",
+    "portraits-0.png": "bb65d0d123145403f457217f434205d1aa8ad97ba5e83716c9480d6ca3a10a09",
+    "portraits-1.png": "16204ac1ff1fe391b5a8da43fa1ffb11fc66ba31a898bdbd1fd774e4fc326603",
+    "portraits-2.png": "7ddbb1f52b5ed3274f66e70d3ab9613cbf948c602b1bae8ea96c536507f88f38",
+    "portraits-3.png": "78e888da625f721437d04c2e50d54e9e559009bd5c08bd5e118df132cf13173a",
+    "world-map.png": "3f962b681828dd4f4ec4caa267b874b57ce3e7e50ef9ca652e84b18597d3ac23",
+    "ui-frame.png": "e1ce1652d0b25bb7a5a296639236042baa99676ff9ebf4fb18094562e59e0581",
+    "terrain.png": "a1fb1a1ce31c0bb910fde60469053b3f9c44f77d1e5eb9bf49fa885067f4cf58",
+    "terrain-v2.png": "256c132cfeaeb1019c2aa9b53d3b8894cf75675b5f97d70b3fe05388a8780adc",
+    "structures-isometric-v1.png": "eaabf417cee19886f77226da32a4b4456bb8dc8d48f412b4a927438ac5d80688",
+    "units-isometric-v1.png": "73e7cbec017d242eb00c29b4f30547899d4d7acf892557d589ac9fdde38adc6d"
+  }
+}

@@ -1,0 +1,1158 @@
+{
+  "schema": 1,
+  "assets": [
+    {
+      "file": "title.png",
+      "kind": "background",
+      "provider": "GPT Image Generator (Codex built-in imagegen)",
+      "source": "/Users/centuruk/.codex/generated_images/01a0f4bb-3474-7a01-aa29-380208d1d074/exec-043baa35-e741-4318-b82a-3272ebd6371b.png",
+      "prompt": "Create one wide 16:9 painterly illustrated background asset for the PC strategy game CHAOS KINGDOM, original fictional late medieval world. A vast misty valley with a river winding toward a fortified stone capital and banners of six competing kingdoms, small groups of armored officers in the lower right, sunrise behind mountains, finely painted oil and gouache, restrained antique gold and deep emerald palette, elegant premium historical strategy game art, grounded believable medieval clothing and architecture, no recognizable real-world figures, no text, no lettering, no UI. Left third darker and quiet with atmospheric mist for readable menu overlay. Composition designed for a 1440x900 game canvas with crop tolerance.",
+      "status": "integrated; runtime rendering and address checks passed; editorial art review pending",
+      "sha256": "b0e7115e1ca763316ae9f122aea7bac94088603b5a5e51c0bf9a2965bf6ec2a4"
+    },
+    {
+      "file": "portraits-0.png",
+      "kind": "portrait-atlas",
+      "provider": "GPT Image Generator (Codex built-in imagegen)",
+      "source": "/Users/centuruk/.codex/generated_images/01a0f4bb-3474-7a01-aa29-380208d1d074/exec-1b19d169-e638-47fa-8a85-32a6d1e492ff.png",
+      "prompt": "Game production portrait sprite atlas for an original fictional medieval officer strategy game. EXACTLY FIFTY DIFFERENT bust portraits in a STRICT TEN COLUMNS BY FIVE ROWS equal-cell grid filling the entire wide rectangular canvas edge to edge. Each cell shows exactly one centered head and shoulders with enough headroom, fully contained in its cell. No gutters, no outer margins, no frames, no captions, no text. Each portrait has a flat dark desaturated emerald backdrop. Fine painterly oil portrait style with realistic expressive facial features and medieval wool, leather, mail and plate clothing. Mix of 25 women and 25 men aged 25 to 55, individual faces, varied skin tones and hairstyles, some knights, diplomats and scholars. Every one of the fifty faces must be visually different. Warm side lighting, antique gold accents, premium restrained historical strategy portrait art. This is sheet ONE of a 200 officer cast: southern kingdom and merchant nobles. Rectangular 10x5 layout, fifty equal cells, clear boundaries through changing background shade but no border.",
+      "status": "integrated; runtime rendering and address checks passed; editorial art review pending",
+      "columns": 10,
+      "rows": 5,
+      "usable_fraction_x": 0.9368658399098083,
+      "sha256": "bb65d0d123145403f457217f434205d1aa8ad97ba5e83716c9480d6ca3a10a09"
+    },
+    {
+      "file": "portraits-1.png",
+      "kind": "portrait-atlas",
+      "provider": "GPT Image Generator (Codex built-in imagegen)",
+      "source": "/Users/centuruk/.codex/generated_images/01a0f4bb-3474-7a01-aa29-380208d1d074/exec-d0696f14-9c7f-41f8-989f-bc465c9a5807.png",
+      "prompt": "A production portrait sprite sheet for CHAOS KINGDOM fictional medieval officer strategy game: fifty different faces in ten columns and five rows. STRICTLY TEN equal columns and FIVE equal rows, exactly 50 complete portraits, no extra column, no partial portraits at edges. Every equal-sized cell contains one centered head and shoulder bust fully within the cell with headroom. Wide canvas aspect ratio 2:1. All fifty faces are unique northern frontier characters: men and women ages 20 to 65, weathered fair, tan and brown complexions, varied red, blond, dark or gray hair, braid styles, scars, beards, noblewomen, fur-clad marshals, soldiers, leather armors, hooded scouts and steel mail, medieval historical oil painting style. Cool slate blue backdrops and warm candle light, accents muted blue and silver. No frames, no text, no gutters. No existing fictional or real public characters. Sheet TWO of four. Crisp fine faces. The grid must fill the canvas exactly with all 50 heads complete.",
+      "status": "integrated; runtime rendering and address checks passed; editorial art review pending",
+      "columns": 10,
+      "rows": 5,
+      "usable_fraction_x": 0.9368658399098083,
+      "sha256": "16204ac1ff1fe391b5a8da43fa1ffb11fc66ba31a898bdbd1fd774e4fc326603"
+    },
+    {
+      "file": "portraits-2.png",
+      "kind": "portrait-atlas",
+      "provider": "GPT Image Generator (Codex built-in imagegen)",
+      "source": "/Users/centuruk/.codex/generated_images/01a0f4bb-3474-7a01-aa29-380208d1d074/exec-6407e865-2cd9-4ed0-9a39-27637d927aca.png",
+      "prompt": "Production portrait atlas with fifty unique fictional medieval officer faces: ten columns by five rows, head and shoulders, a wide 2:1 rectangular equal-cell grid, no margins or borders, no lettering, no extra partial column. All heads and shoulders contained in their own cells. Original desert coast, red lion and eastern highland characters, balanced men and women aged 19-60, diverse complexions from olive to brown, black curly, straight and braided hair with some gray, realistic grounded medieval commanders, scholars and merchants wearing red cloth, ivory robes, bronze jewelry, leather and mail. Distinct facial structures, expressions and silhouettes for every portrait. Painterly fine oil illustration in restrained warm terracotta and antique gold with charcoal-brown backgrounds. Sheet THREE of a two-hundred-officer roster. No famous real or fictional characters. Make a visually coherent fifty-character sprite sheet.",
+      "status": "integrated; runtime rendering and address checks passed; editorial art review pending",
+      "columns": 10,
+      "rows": 5,
+      "usable_fraction_x": 1,
+      "sha256": "7ddbb1f52b5ed3274f66e70d3ab9613cbf948c602b1bae8ea96c536507f88f38"
+    },
+    {
+      "file": "portraits-3.png",
+      "kind": "portrait-atlas",
+      "provider": "GPT Image Generator (Codex built-in imagegen)",
+      "source": "/Users/centuruk/.codex/generated_images/01a0f4bb-3474-7a01-aa29-380208d1d074/exec-f0fa8e2f-0b8e-482e-8a81-ec6aeef9d59d.png",
+      "prompt": "Fifty different original fantasy medieval character bust portraits in a regular equal-cell production atlas. Exactly 10 columns and 5 rows. Wide 2:1 rectangle filled edge to edge, each cell contains one full centered face and shoulders, no captions, no frames, no extra column. Sheet FOUR of four for CHAOS KINGDOM: emerald woodland wardens, violet star court scholars, free knights and wandering healers. Equal mixture of women and men from ages 20 to 65, distinctive faces, hair lengths, silver gray, dark brown, auburn, black and blonde hair, multiple skin tones, individual elegant medieval armor, green capes, purple wool, simple linen, leather and scholarly robes, some round metal spectacles and hoods, believable historical clothing. Rich fine painterly oil portraits on dark neutral purple-green backgrounds, warm side lighting, restrained violet and emerald accents. Distinct expressions and face shapes. No existing characters. Full fifty-cell grid must be complete.",
+      "status": "integrated; runtime rendering and address checks passed; editorial art review pending",
+      "columns": 10,
+      "rows": 5,
+      "usable_fraction_x": 0.9090909090909091,
+      "sha256": "78e888da625f721437d04c2e50d54e9e559009bd5c08bd5e118df132cf13173a"
+    },
+    {
+      "file": "world-map.png",
+      "kind": "world-map",
+      "provider": "GPT Image Generator (Codex built-in imagegen)",
+      "source": "/Users/centuruk/.codex/generated_images/01a0f4bb-3474-7a01-aa29-380208d1d074/exec-b65390a5-2bdd-44e2-9475-92765339dbf8.png",
+      "prompt": "Wide original hand-painted parchment world map background for CHAOS KINGDOM, fictional medieval continent Eldras. Pure top-down cartography, not isometric, no cities, no buildings, no roads, no markers, no lettering, no text. One broad horizontally extended roughly rectangular mainland with a gently irregular coastline almost filling the parchment, warm light ivory land and muted teal sea around edges. Land spans normalized x 0.04 to 0.97 and y 0.07 to 0.93, low-contrast fine ink mountain hatchings mostly in the north and northwest, forest stippling near the west and center, a winding river from upper left-center to lower center, eastern coast on right, southern plains; abundant uncluttered interior space for overlaying 50 live settlement markers. Premium historical strategy cartography, antique parchment paper texture, softly painted subtle muted colors, very light clean interior that preserves black label readability. Landscape 16:9 composition, no ornate border and no compass text.",
+      "status": "integrated; runtime rendering and address checks passed; editorial art review pending",
+      "sha256": "3f962b681828dd4f4ec4caa267b874b57ce3e7e50ef9ca652e84b18597d3ac23"
+    },
+    {
+      "file": "ui-frame.png",
+      "kind": "ui-ornament",
+      "provider": "GPT Image Generator (Codex built-in imagegen)",
+      "source": "/Users/centuruk/.codex/generated_images/01a0f4bb-3474-7a01-aa29-380208d1d074/exec-a3bd6c21-ccdc-4c0f-9f55-b251f9e2317c.png",
+      "prompt": "Transparent-background game UI ornament asset for original medieval strategy game CHAOS KINGDOM. A very wide, thin horizontal antique-gold engraved metal frame with restrained emerald enamel corner filigree, tiny original six-point heraldic star at left and right, simple elegant fine gold lines on top and bottom, open transparent interior and transparent outside, no panels filling the middle, no lettering, no text, no words, no numbers, no menus. Extremely horizontal aspect ratio about 10:1 suitable for a 1440 by 133 pixel PC game header, clean center leaving room for live Korean game text. Medieval manuscript craftsmanship, understated high-quality UI art, crisp readable gold silhouette, flat frontal view, minimal no shadows beyond ornament.",
+      "status": "integrated; runtime rendering and address checks passed; editorial art review pending",
+      "sha256": "e1ce1652d0b25bb7a5a296639236042baa99676ff9ebf4fb18094562e59e0581"
+    },
+    {
+      "file": "terrain.png",
+      "kind": "terrain-atlas",
+      "provider": "GPT Image Generator (Codex built-in imagegen)",
+      "source": "/Users/centuruk/.codex/generated_images/01a0f4bb-3474-7a01-aa29-380208d1d074/exec-2f82f56b-4920-44f1-88e2-cfd96805407c.png",
+      "prompt": "A game-ready top-down terrain texture atlas for an original medieval tactical strategy game, hand-painted detailed but readable painterly style. EXACTLY EIGHT seamless-looking SQUARE equal-size tiles in FOUR columns and TWO rows, 2:1 wide canvas edge-to-edge, no borders no margins no labels no text. First row left to right: 1 meadow grass with tiny flowers, 2 dense green woodland tree canopy from directly above, 3 rocky pale ochre highland, 4 packed brown dirt road ground. Second row left to right: 5 flowing muted blue river water viewed directly above, 6 wooden bridge planks with river at top and bottom and crossing left-right, 7 gray medieval stone rampart walls viewed directly above, 8 dry heath grass. Flat overhead map view, not isometric, not perspective; ambient soft illumination, earthy restrained green-gold palette, each tile distinct and richly textured. No people, no buildings outside the wall tile, no arrows, no UI. Production texture sheet to render 32x20 cell battle maps.",
+      "columns": 4,
+      "rows": 2,
+      "status": "integrated; runtime rendering and address checks passed; editorial art review pending",
+      "sha256": "a1fb1a1ce31c0bb910fde60469053b3f9c44f77d1e5eb9bf49fa885067f4cf58"
+    },
+    {
+      "file": "terrain-v2.png",
+      "kind": "terrain-atlas",
+      "provider": "GPT Image Generator (Codex built-in imagegen)",
+      "source": "/Users/centuruk/.codex/generated_images/01a0f4bb-3474-7a01-aa29-380208d1d074/exec-477a436e-7607-43e8-9915-fcab7e93f1f2.png",
+      "prompt": "Use case: stylized-concept. Asset type: original 2D medieval RTS terrain material atlas for a top-down flat battlefield. Create EXACTLY eight borderless square texture swatches in an EXACT 4-column by 2-row grid, landscape aspect 2:1, all cells equally sized, no gutters, labels, letters or frames. Row 1 left to right: 1 muted olive meadow ground with delicate grass and tiny irregular soil flecks; 2 dense dark olive forest canopy/undergrowth material with small varied rounded foliage clusters; 3 weathered grey-brown rocky mountain ground with irregular flat rocks and sparse moss; 4 compacted warm earth dirt-road surface with subtle tracks. Row 2: 5 calm muted teal-blue river water with faint flowing ripples, no banks; 6 aged medieval timber planks with fine wood grain, flat overhead; 7 worn grey stone masonry surface, flat overhead; 8 pale dry soil and small pebbles for shore blending. Visual style: handcrafted late-1990s 2D strategy-game terrain readability, painterly pixel-like detailing, restrained fine grain, natural muted palette, original art, not assets from any existing game. Each square is ONLY its uninterrupted surface material filling the entire square edge-to-edge, suitable to repeat seamlessly. The renderer will create curved borders and banks, so DO NOT paint edge borders, large isolated motifs, paths crossing other materials, rivers inside grass or shore outlines. Absolutely no cliffs, terraces, elevation steps, isometric raised blocks, mountains as triangular icons, directional cast shadows, UI, troops, buildings, logos or text. Flat ground materials only, soft ambient light, varied organic details, medium contrast so unit labels remain readable.",
+      "columns": 4,
+      "rows": 2,
+      "status": "generated; integrated with flat continuous material renderer; actual editor and battle screens checked",
+      "sha256": "256c132cfeaeb1019c2aa9b53d3b8894cf75675b5f97d70b3fe05388a8780adc"
+    },
+    {
+      "file": "structures-isometric-v1.png",
+      "kind": "isometric-structure-atlas",
+      "provider": "GPT Image Generator (Codex built-in imagegen)",
+      "source": "/Users/centuruk/.codex/generated_images/01a0f4bb-3474-7a01-aa29-380208d1d074/exec-f7588815-35bd-4b24-bdb2-3b29031f1975.png",
+      "prompt_file": "docs/production/isometric-structures-request.txt",
+      "prompt": "Create the sprite atlas described exactly in this production prompt. Use case: stylized-concept. Asset type: transparent production sprite atlas for a Pygame fictional medieval strategy game. ONE polished hand-painted pixel-art inspired isometric sprite sheet, eight architectural sprites in a STRICT 4 columns by 2 rows equal-cell layout. True transparent background. Each object is entirely inside its cell, with generous transparent padding. Orthographic 2:1 isometric view, camera looking down, all sprites have identical light from upper left and consistent scale. Original late medieval European stone architecture, warm weathered gray stone, brown timber, subdued olive vegetation. Crisp readable silhouettes, detailed 1990s strategy game craftsmanship, no recognizable copied game assets. Top row left to right: (1) short crenellated stone wall segment along the down-right isometric axis; (2) matching wall segment along the down-left axis; (3) stone gatehouse with OPEN walkable arch and a short connecting wall along down-right; (4) matching gatehouse along down-left. Bottom row left to right: (5) square crenellated stone corner tower; (6) rustic wooden bridge with side rails spanning a stream along down-right, fully isolated, no water image beneath it; (7) matching wooden bridge along down-left; (8) small fortified medieval keep with two towers, gray stone and muted slate roofs. Composition: a wide 2:1 canvas, four exact equal columns and two exact equal rows. Exactly eight objects, exactly one per cell, centered. The bottom ground contact point of every object is at 80 percent of the height of its cell. Wall and bridge footprints fit a low 2:1 diamond. Walls connect seamlessly when repeated. No frame, no labels, no text, no numbers, no UI, no ground carpet, no cliff, no terraces, no terrain elevation. Keep the background genuinely transparent and keep drop shadows small and transparent.",
+      "status": "integrated; preserved original and alpha atlas addresses verified; actual Pygame screens visually reviewed",
+      "columns": 4,
+      "rows": 2,
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "eaabf417cee19886f77226da32a4b4456bb8dc8d48f412b4a927438ac5d80688",
+      "brief_file": "docs/production/isometric-structures-prompt.txt"
+    },
+    {
+      "file": "units-isometric-v1.png",
+      "kind": "isometric-unit-atlas",
+      "provider": "GPT Image Generator (Codex built-in imagegen)",
+      "source": "/Users/centuruk/.codex/generated_images/01a0f4bb-3474-7a01-aa29-380208d1d074/exec-4cf29c9a-e3fd-4e8b-8e8a-54b7e564e018.png",
+      "prompt_file": "docs/production/isometric-units-prompt.txt",
+      "prompt": "Create a production sprite atlas for an original fictional late medieval Pygame strategy game. Transparent background. STRICT 4 columns and 2 rows equal cells, exactly EIGHT isolated small soldier formation sprites, one formation fully inside each cell, generous padding. Orthographic 2:1 isometric ground, matching warm gray stone and olive terrain, light upper left. Detailed crisp hand-painted pixel art inspired by 1990s strategy craftsmanship, original art. Each formation has exactly THREE miniature soldiers or riders arranged on one small low diamond footprint, steel helmets, muted cream surcoats and brown leather, distinct readable silhouettes. TOP row left to right: infantry with swords and round shields facing down-right; archers with bows facing down-right; mounted cavalry with lances facing down-right; spearmen with long spears facing down-right. BOTTOM row same four corresponding formations facing up-left. No blue or red faction colors, faction marker will be drawn by game. Ground contact aligned around 80 percent cell height. No text, numbers, logos, frames, background, grass carpets, buildings, extra rows or columns. All formations complete and isolated in their own exact equal cell. Wide 2:1 canvas. Real transparent alpha, compact subtle transparent shadows.",
+      "status": "integrated; preserved original and alpha atlas addresses verified; actual Pygame screens visually reviewed",
+      "columns": 4,
+      "rows": 2,
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "73e7cbec017d242eb00c29b4f30547899d4d7acf892557d589ac9fdde38adc6d"
+    }
+  ],
+  "officers": {
+    "o000": {
+      "sheet": 0,
+      "cell": 1,
+      "age": 30
+    },
+    "o001": {
+      "sheet": 0,
+      "cell": 0,
+      "age": 45
+    },
+    "o002": {
+      "sheet": 0,
+      "cell": 3,
+      "age": 27
+    },
+    "o003": {
+      "sheet": 0,
+      "cell": 2,
+      "age": 38
+    },
+    "o004": {
+      "sheet": 0,
+      "cell": 5,
+      "age": 28
+    },
+    "o005": {
+      "sheet": 0,
+      "cell": 4,
+      "age": 52
+    },
+    "o006": {
+      "sheet": 0,
+      "cell": 7,
+      "age": 24
+    },
+    "o007": {
+      "sheet": 0,
+      "cell": 6,
+      "age": 35
+    },
+    "o008": {
+      "sheet": 0,
+      "cell": 9,
+      "age": 27
+    },
+    "o009": {
+      "sheet": 0,
+      "cell": 8,
+      "age": 48
+    },
+    "o010": {
+      "sheet": 0,
+      "cell": 10,
+      "age": 28
+    },
+    "o011": {
+      "sheet": 0,
+      "cell": 11,
+      "age": 38
+    },
+    "o012": {
+      "sheet": 0,
+      "cell": 13,
+      "age": 26
+    },
+    "o013": {
+      "sheet": 0,
+      "cell": 12,
+      "age": 31
+    },
+    "o014": {
+      "sheet": 0,
+      "cell": 15,
+      "age": 29
+    },
+    "o015": {
+      "sheet": 0,
+      "cell": 14,
+      "age": 50
+    },
+    "o016": {
+      "sheet": 0,
+      "cell": 17,
+      "age": 28
+    },
+    "o017": {
+      "sheet": 0,
+      "cell": 16,
+      "age": 35
+    },
+    "o018": {
+      "sheet": 0,
+      "cell": 19,
+      "age": 25
+    },
+    "o019": {
+      "sheet": 0,
+      "cell": 18,
+      "age": 45
+    },
+    "o020": {
+      "sheet": 0,
+      "cell": 21,
+      "age": 30
+    },
+    "o021": {
+      "sheet": 0,
+      "cell": 20,
+      "age": 36
+    },
+    "o022": {
+      "sheet": 0,
+      "cell": 23,
+      "age": 27
+    },
+    "o023": {
+      "sheet": 0,
+      "cell": 22,
+      "age": 36
+    },
+    "o024": {
+      "sheet": 0,
+      "cell": 25,
+      "age": 29
+    },
+    "o025": {
+      "sheet": 0,
+      "cell": 24,
+      "age": 57
+    },
+    "o026": {
+      "sheet": 0,
+      "cell": 27,
+      "age": 24
+    },
+    "o027": {
+      "sheet": 0,
+      "cell": 26,
+      "age": 48
+    },
+    "o028": {
+      "sheet": 0,
+      "cell": 31,
+      "age": 24
+    },
+    "o029": {
+      "sheet": 0,
+      "cell": 28,
+      "age": 45
+    },
+    "o030": {
+      "sheet": 0,
+      "cell": 33,
+      "age": 26
+    },
+    "o031": {
+      "sheet": 0,
+      "cell": 29,
+      "age": 34
+    },
+    "o032": {
+      "sheet": 0,
+      "cell": 35,
+      "age": 27
+    },
+    "o033": {
+      "sheet": 0,
+      "cell": 30,
+      "age": 40
+    },
+    "o034": {
+      "sheet": 0,
+      "cell": 37,
+      "age": 30
+    },
+    "o035": {
+      "sheet": 0,
+      "cell": 32,
+      "age": 53
+    },
+    "o036": {
+      "sheet": 0,
+      "cell": 39,
+      "age": 26
+    },
+    "o037": {
+      "sheet": 0,
+      "cell": 34,
+      "age": 35
+    },
+    "o038": {
+      "sheet": 0,
+      "cell": 41,
+      "age": 26
+    },
+    "o039": {
+      "sheet": 0,
+      "cell": 36,
+      "age": 36
+    },
+    "o040": {
+      "sheet": 0,
+      "cell": 43,
+      "age": 28
+    },
+    "o041": {
+      "sheet": 0,
+      "cell": 38,
+      "age": 50
+    },
+    "o042": {
+      "sheet": 0,
+      "cell": 45,
+      "age": 27
+    },
+    "o043": {
+      "sheet": 0,
+      "cell": 40,
+      "age": 40
+    },
+    "o044": {
+      "sheet": 0,
+      "cell": 47,
+      "age": 24
+    },
+    "o045": {
+      "sheet": 0,
+      "cell": 42,
+      "age": 35
+    },
+    "o046": {
+      "sheet": 0,
+      "cell": 49,
+      "age": 25
+    },
+    "o047": {
+      "sheet": 0,
+      "cell": 44,
+      "age": 38
+    },
+    "o048": {
+      "sheet": 1,
+      "cell": 0,
+      "age": 26
+    },
+    "o049": {
+      "sheet": 0,
+      "cell": 46,
+      "age": 38
+    },
+    "o050": {
+      "sheet": 1,
+      "cell": 2,
+      "age": 27
+    },
+    "o051": {
+      "sheet": 0,
+      "cell": 48,
+      "age": 39
+    },
+    "o052": {
+      "sheet": 1,
+      "cell": 4,
+      "age": 29
+    },
+    "o053": {
+      "sheet": 1,
+      "cell": 1,
+      "age": 62
+    },
+    "o054": {
+      "sheet": 1,
+      "cell": 6,
+      "age": 25
+    },
+    "o055": {
+      "sheet": 1,
+      "cell": 3,
+      "age": 42
+    },
+    "o056": {
+      "sheet": 1,
+      "cell": 8,
+      "age": 28
+    },
+    "o057": {
+      "sheet": 1,
+      "cell": 5,
+      "age": 40
+    },
+    "o058": {
+      "sheet": 1,
+      "cell": 9,
+      "age": 30
+    },
+    "o059": {
+      "sheet": 1,
+      "cell": 7,
+      "age": 45
+    },
+    "o060": {
+      "sheet": 1,
+      "cell": 11,
+      "age": 25
+    },
+    "o061": {
+      "sheet": 1,
+      "cell": 10,
+      "age": 33
+    },
+    "o062": {
+      "sheet": 1,
+      "cell": 14,
+      "age": 27
+    },
+    "o063": {
+      "sheet": 1,
+      "cell": 12,
+      "age": 29
+    },
+    "o064": {
+      "sheet": 1,
+      "cell": 16,
+      "age": 25
+    },
+    "o065": {
+      "sheet": 1,
+      "cell": 13,
+      "age": 35
+    },
+    "o066": {
+      "sheet": 1,
+      "cell": 19,
+      "age": 27
+    },
+    "o067": {
+      "sheet": 1,
+      "cell": 15,
+      "age": 60
+    },
+    "o068": {
+      "sheet": 1,
+      "cell": 20,
+      "age": 60
+    },
+    "o069": {
+      "sheet": 1,
+      "cell": 17,
+      "age": 32
+    },
+    "o070": {
+      "sheet": 1,
+      "cell": 22,
+      "age": 25
+    },
+    "o071": {
+      "sheet": 1,
+      "cell": 18,
+      "age": 41
+    },
+    "o072": {
+      "sheet": 1,
+      "cell": 24,
+      "age": 26
+    },
+    "o073": {
+      "sheet": 1,
+      "cell": 21,
+      "age": 40
+    },
+    "o074": {
+      "sheet": 1,
+      "cell": 26,
+      "age": 24
+    },
+    "o075": {
+      "sheet": 1,
+      "cell": 23,
+      "age": 45
+    },
+    "o076": {
+      "sheet": 1,
+      "cell": 28,
+      "age": 28
+    },
+    "o077": {
+      "sheet": 1,
+      "cell": 25,
+      "age": 37
+    },
+    "o078": {
+      "sheet": 1,
+      "cell": 31,
+      "age": 28
+    },
+    "o079": {
+      "sheet": 1,
+      "cell": 27,
+      "age": 40
+    },
+    "o080": {
+      "sheet": 1,
+      "cell": 33,
+      "age": 26
+    },
+    "o081": {
+      "sheet": 1,
+      "cell": 29,
+      "age": 48
+    },
+    "o082": {
+      "sheet": 1,
+      "cell": 35,
+      "age": 26
+    },
+    "o083": {
+      "sheet": 1,
+      "cell": 30,
+      "age": 35
+    },
+    "o084": {
+      "sheet": 1,
+      "cell": 37,
+      "age": 25
+    },
+    "o085": {
+      "sheet": 1,
+      "cell": 32,
+      "age": 60
+    },
+    "o086": {
+      "sheet": 1,
+      "cell": 39,
+      "age": 30
+    },
+    "o087": {
+      "sheet": 1,
+      "cell": 34,
+      "age": 42
+    },
+    "o088": {
+      "sheet": 1,
+      "cell": 40,
+      "age": 28
+    },
+    "o089": {
+      "sheet": 1,
+      "cell": 36,
+      "age": 47
+    },
+    "o090": {
+      "sheet": 1,
+      "cell": 42,
+      "age": 25
+    },
+    "o091": {
+      "sheet": 1,
+      "cell": 38,
+      "age": 42
+    },
+    "o092": {
+      "sheet": 1,
+      "cell": 44,
+      "age": 57
+    },
+    "o093": {
+      "sheet": 1,
+      "cell": 41,
+      "age": 45
+    },
+    "o094": {
+      "sheet": 1,
+      "cell": 46,
+      "age": 24
+    },
+    "o095": {
+      "sheet": 1,
+      "cell": 43,
+      "age": 40
+    },
+    "o096": {
+      "sheet": 1,
+      "cell": 48,
+      "age": 28
+    },
+    "o097": {
+      "sheet": 1,
+      "cell": 45,
+      "age": 40
+    },
+    "o098": {
+      "sheet": 1,
+      "cell": 49,
+      "age": 26
+    },
+    "o099": {
+      "sheet": 1,
+      "cell": 47,
+      "age": 39
+    },
+    "o100": {
+      "sheet": 2,
+      "cell": 1,
+      "age": 27
+    },
+    "o101": {
+      "sheet": 2,
+      "cell": 0,
+      "age": 38
+    },
+    "o102": {
+      "sheet": 2,
+      "cell": 3,
+      "age": 29
+    },
+    "o103": {
+      "sheet": 2,
+      "cell": 2,
+      "age": 62
+    },
+    "o104": {
+      "sheet": 2,
+      "cell": 5,
+      "age": 28
+    },
+    "o105": {
+      "sheet": 2,
+      "cell": 4,
+      "age": 42
+    },
+    "o106": {
+      "sheet": 2,
+      "cell": 7,
+      "age": 29
+    },
+    "o107": {
+      "sheet": 2,
+      "cell": 6,
+      "age": 34
+    },
+    "o108": {
+      "sheet": 2,
+      "cell": 9,
+      "age": 24
+    },
+    "o109": {
+      "sheet": 2,
+      "cell": 8,
+      "age": 57
+    },
+    "o110": {
+      "sheet": 2,
+      "cell": 11,
+      "age": 25
+    },
+    "o111": {
+      "sheet": 2,
+      "cell": 10,
+      "age": 49
+    },
+    "o112": {
+      "sheet": 2,
+      "cell": 13,
+      "age": 28
+    },
+    "o113": {
+      "sheet": 2,
+      "cell": 12,
+      "age": 29
+    },
+    "o114": {
+      "sheet": 2,
+      "cell": 15,
+      "age": 30
+    },
+    "o115": {
+      "sheet": 2,
+      "cell": 14,
+      "age": 43
+    },
+    "o116": {
+      "sheet": 2,
+      "cell": 17,
+      "age": 27
+    },
+    "o117": {
+      "sheet": 2,
+      "cell": 16,
+      "age": 37
+    },
+    "o118": {
+      "sheet": 2,
+      "cell": 20,
+      "age": 29
+    },
+    "o119": {
+      "sheet": 2,
+      "cell": 18,
+      "age": 36
+    },
+    "o120": {
+      "sheet": 2,
+      "cell": 22,
+      "age": 28
+    },
+    "o121": {
+      "sheet": 2,
+      "cell": 19,
+      "age": 38
+    },
+    "o122": {
+      "sheet": 2,
+      "cell": 24,
+      "age": 25
+    },
+    "o123": {
+      "sheet": 2,
+      "cell": 21,
+      "age": 50
+    },
+    "o124": {
+      "sheet": 2,
+      "cell": 26,
+      "age": 27
+    },
+    "o125": {
+      "sheet": 2,
+      "cell": 23,
+      "age": 52
+    },
+    "o126": {
+      "sheet": 2,
+      "cell": 28,
+      "age": 28
+    },
+    "o127": {
+      "sheet": 2,
+      "cell": 25,
+      "age": 57
+    },
+    "o128": {
+      "sheet": 2,
+      "cell": 31,
+      "age": 28
+    },
+    "o129": {
+      "sheet": 2,
+      "cell": 27,
+      "age": 46
+    },
+    "o130": {
+      "sheet": 2,
+      "cell": 33,
+      "age": 29
+    },
+    "o131": {
+      "sheet": 2,
+      "cell": 29,
+      "age": 48
+    },
+    "o132": {
+      "sheet": 2,
+      "cell": 35,
+      "age": 30
+    },
+    "o133": {
+      "sheet": 2,
+      "cell": 30,
+      "age": 39
+    },
+    "o134": {
+      "sheet": 2,
+      "cell": 36,
+      "age": 28
+    },
+    "o135": {
+      "sheet": 2,
+      "cell": 32,
+      "age": 41
+    },
+    "o136": {
+      "sheet": 2,
+      "cell": 38,
+      "age": 27
+    },
+    "o137": {
+      "sheet": 2,
+      "cell": 34,
+      "age": 52
+    },
+    "o138": {
+      "sheet": 2,
+      "cell": 40,
+      "age": 28
+    },
+    "o139": {
+      "sheet": 2,
+      "cell": 37,
+      "age": 42
+    },
+    "o140": {
+      "sheet": 2,
+      "cell": 42,
+      "age": 26
+    },
+    "o141": {
+      "sheet": 2,
+      "cell": 39,
+      "age": 36
+    },
+    "o142": {
+      "sheet": 2,
+      "cell": 44,
+      "age": 24
+    },
+    "o143": {
+      "sheet": 2,
+      "cell": 41,
+      "age": 53
+    },
+    "o144": {
+      "sheet": 2,
+      "cell": 46,
+      "age": 27
+    },
+    "o145": {
+      "sheet": 2,
+      "cell": 43,
+      "age": 43
+    },
+    "o146": {
+      "sheet": 2,
+      "cell": 48,
+      "age": 28
+    },
+    "o147": {
+      "sheet": 2,
+      "cell": 45,
+      "age": 35
+    },
+    "o148": {
+      "sheet": 3,
+      "cell": 0,
+      "age": 25
+    },
+    "o149": {
+      "sheet": 2,
+      "cell": 47,
+      "age": 45
+    },
+    "o150": {
+      "sheet": 3,
+      "cell": 2,
+      "age": 29
+    },
+    "o151": {
+      "sheet": 2,
+      "cell": 49,
+      "age": 39
+    },
+    "o152": {
+      "sheet": 3,
+      "cell": 4,
+      "age": 24
+    },
+    "o153": {
+      "sheet": 3,
+      "cell": 1,
+      "age": 35
+    },
+    "o154": {
+      "sheet": 3,
+      "cell": 6,
+      "age": 27
+    },
+    "o155": {
+      "sheet": 3,
+      "cell": 3,
+      "age": 36
+    },
+    "o156": {
+      "sheet": 3,
+      "cell": 8,
+      "age": 28
+    },
+    "o157": {
+      "sheet": 3,
+      "cell": 5,
+      "age": 35
+    },
+    "o158": {
+      "sheet": 3,
+      "cell": 9,
+      "age": 25
+    },
+    "o159": {
+      "sheet": 3,
+      "cell": 7,
+      "age": 62
+    },
+    "o160": {
+      "sheet": 3,
+      "cell": 11,
+      "age": 26
+    },
+    "o161": {
+      "sheet": 3,
+      "cell": 10,
+      "age": 28
+    },
+    "o162": {
+      "sheet": 3,
+      "cell": 13,
+      "age": 28
+    },
+    "o163": {
+      "sheet": 3,
+      "cell": 12,
+      "age": 32
+    },
+    "o164": {
+      "sheet": 3,
+      "cell": 15,
+      "age": 26
+    },
+    "o165": {
+      "sheet": 3,
+      "cell": 14,
+      "age": 27
+    },
+    "o166": {
+      "sheet": 3,
+      "cell": 17,
+      "age": 29
+    },
+    "o167": {
+      "sheet": 3,
+      "cell": 16,
+      "age": 39
+    },
+    "o168": {
+      "sheet": 3,
+      "cell": 19,
+      "age": 30
+    },
+    "o169": {
+      "sheet": 3,
+      "cell": 18,
+      "age": 35
+    },
+    "o170": {
+      "sheet": 3,
+      "cell": 20,
+      "age": 57
+    },
+    "o171": {
+      "sheet": 3,
+      "cell": 21,
+      "age": 33
+    },
+    "o172": {
+      "sheet": 3,
+      "cell": 22,
+      "age": 25
+    },
+    "o173": {
+      "sheet": 3,
+      "cell": 23,
+      "age": 55
+    },
+    "o174": {
+      "sheet": 3,
+      "cell": 24,
+      "age": 26
+    },
+    "o175": {
+      "sheet": 3,
+      "cell": 25,
+      "age": 37
+    },
+    "o176": {
+      "sheet": 3,
+      "cell": 26,
+      "age": 25
+    },
+    "o177": {
+      "sheet": 3,
+      "cell": 27,
+      "age": 60
+    },
+    "o178": {
+      "sheet": 3,
+      "cell": 28,
+      "age": 28
+    },
+    "o179": {
+      "sheet": 3,
+      "cell": 30,
+      "age": 36
+    },
+    "o180": {
+      "sheet": 3,
+      "cell": 29,
+      "age": 24
+    },
+    "o181": {
+      "sheet": 3,
+      "cell": 32,
+      "age": 57
+    },
+    "o182": {
+      "sheet": 3,
+      "cell": 31,
+      "age": 29
+    },
+    "o183": {
+      "sheet": 3,
+      "cell": 33,
+      "age": 24
+    },
+    "o184": {
+      "sheet": 3,
+      "cell": 34,
+      "age": 26
+    },
+    "o185": {
+      "sheet": 3,
+      "cell": 35,
+      "age": 58
+    },
+    "o186": {
+      "sheet": 3,
+      "cell": 36,
+      "age": 27
+    },
+    "o187": {
+      "sheet": 3,
+      "cell": 37,
+      "age": 41
+    },
+    "o188": {
+      "sheet": 3,
+      "cell": 39,
+      "age": 27
+    },
+    "o189": {
+      "sheet": 3,
+      "cell": 38,
+      "age": 39
+    },
+    "o190": {
+      "sheet": 3,
+      "cell": 41,
+      "age": 25
+    },
+    "o191": {
+      "sheet": 3,
+      "cell": 40,
+      "age": 23
+    },
+    "o192": {
+      "sheet": 3,
+      "cell": 43,
+      "age": 25
+    },
+    "o193": {
+      "sheet": 3,
+      "cell": 42,
+      "age": 61
+    },
+    "o194": {
+      "sheet": 3,
+      "cell": 45,
+      "age": 26
+    },
+    "o195": {
+      "sheet": 3,
+      "cell": 44,
+      "age": 38
+    },
+    "o196": {
+      "sheet": 3,
+      "cell": 47,
+      "age": 27
+    },
+    "o197": {
+      "sheet": 3,
+      "cell": 46,
+      "age": 37
+    },
+    "o198": {
+      "sheet": 3,
+      "cell": 48,
+      "age": 26
+    },
+    "o199": {
+      "sheet": 3,
+      "cell": 49,
+      "age": 35
+    }
+  },
+  "portrait_qa": "200 unique cells. Visually checked grid addressing; names assigned by presentation and apparent ages approximated for fictional cast. Sheet 0/1 extra edge column excluded; sheet 3 uses first 10 of 11 columns.",
+  "terrain_file": "terrain-v2.png",
+  "structures_file": "structures-isometric-v1.png",
+  "structures_layout": {
+    "columns": 4,
+    "rows": 2,
+    "names": [
+      "wall_x",
+      "wall_y",
+      "gate_x",
+      "gate_y",
+      "tower",
+      "bridge_x",
+      "bridge_y",
+      "keep"
+    ],
+    "mirror_x": [
+      "wall_y"
+    ]
+  },
+  "units_file": "units-isometric-v1.png"
+}
