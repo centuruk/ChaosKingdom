@@ -2,6 +2,8 @@
 
 가상의 중세 대륙 **엘드라스**에서 장수 한 명의 삶을 플레이하는 PyGame 전략 게임입니다. 200명의 장수, 20개의 성, 30개의 거점, 여섯 세력이 함께 움직입니다. AI가 먼저 진행한 역사에서 캠페인을 시작하고, 내정·인연·전쟁으로 다음 역사를 바꿉니다.
 
+공개 저장소: [centuruk/ChaosKingdom](https://github.com/centuruk/ChaosKingdom) · 기본 브랜치: `main`
+
 현재 버전은 **0.3.0-beta.2 클로즈드 베타 후보**입니다. Mac에서 투명 PNG 뒤에 검은 사각형이 생기던 캔버스 합성 오류를 수정했습니다. 아이소메트릭 공격·방어 지휘, 지역마다 다른 전장 50개와 맵 에디터, 역사와 기억 기반 개인 과업, 천하통일 최종 승리와 96주 중간 연대기, 전투 도중 저장·복구, 로컬 문제 제보를 포함합니다. GPT Image Generator로 200명 초상, 타이틀 배경, 세계지도, UI 장식, 전장 지형과 성벽·성문·다리·부대 이미지 자산을 제작했습니다. 실제 검증과 플랫폼별 확인 범위는 [검증 보고서](docs/evidence/verification.md), 플레이 방법은 [테스터 안내](docs/BETA_GUIDE.md)를 읽어 주세요.
 
 ![왕국 지도](docs/images/kingdom.png)
@@ -9,6 +11,11 @@
 ## 바로 실행
 
 처음 내려받은 프로젝트에서는 실행 스크립트가 가상환경을 만들고 필요한 패키지를 설치합니다.
+
+```sh
+git clone https://github.com/centuruk/ChaosKingdom.git
+cd ChaosKingdom
+```
 
 **Mac:** `launch.command`를 더블클릭하거나 아래 명령을 실행하세요.
 

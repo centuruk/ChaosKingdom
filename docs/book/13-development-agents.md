@@ -136,3 +136,6 @@ OpenAI 공식 문서는 총괄이 전문 에이전트를 도구로 호출하는 
 
 
 알파 제보 후속 수정에도 같은 주 개발 에이전트 1개가 참여했다. `functions.exec`로 픽셀 형식·원본 해시·회귀 검사·Mac 빌드를 조사하고, `unified-computer-use`의 `mcp__cua_repl.js`로 수정 앱의 메뉴, 연습 전투와 성곽·강 편집기를 마우스로 열어 육안 확인했다. Cocoa 렌더 검사와 관측 결과는 `docs/evidence/alpha-compositing-qa.json`에 연결했다. 이 작업의 별도 에이전트 실행과 추가 스킬 적용은 없으며 GPT 이미지 원본도 유지했다.
+
+
+공개 저장소 작업에서는 `/usr/bin/git`과 `/opt/homebrew/bin/gh`를 `functions.exec / exec_command`로 실행했다. `git`은 로컬 main 초기화·스테이징·커밋을, GitHub CLI는 기존 인증 확인·Public 저장소 생성·최초 푸시와 원격 메타데이터 조회를 담당했다. 추가 에이전트나 스킬을 적용한 작업은 아니다. 실행 명세에 도구 이름·명령·목적·출처를 추가했고, [공개 저장소](https://github.com/centuruk/ChaosKingdom)와 `docs/evidence/github-publication.json`을 산출물로 연결했다. GitHub 커넥터를 실행했다고 기록하지 않는다.

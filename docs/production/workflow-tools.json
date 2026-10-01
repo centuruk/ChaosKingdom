@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "updated": "2026-10-01",
-  "scope": "0.3.0-beta.2 PNG 알파 합성 수정·네이티브 검증·제작 원고",
+  "scope": "0.3.0-beta.2 게임·원고와 공개 GitHub 저장소",
   "controller": {
     "name": "Codex 주 개발 에이전트",
     "actual_count": 1,
@@ -63,6 +63,30 @@
     {
       "name": "mcp__cua_repl.js / cua.getApp",
       "purpose": "macOS 게임 창의 실제 마우스 조작과 화면 관찰. 별도 검증 기록에 범위 명시"
+    },
+    {
+      "name": "Git / GitHub CLI (gh)",
+      "instruction_source": "사용자의 공개 저장소 생성·커밋·푸시 요청; AGENTS.md",
+      "source": [
+        "/usr/bin/git",
+        "/opt/homebrew/bin/gh"
+      ],
+      "purpose": "프로젝트 버전 관리 초기화와 Public GitHub 저장소 생성·커밋·푸시·원격 상태 확인",
+      "status": "executed",
+      "invoked_commands": [
+        "git init -b main",
+        "git add",
+        "git diff --cached --check",
+        "git commit",
+        "gh auth status",
+        "gh repo view",
+        "gh repo create --public --source . --remote origin --push"
+      ],
+      "artifacts": [
+        "https://github.com/centuruk/ChaosKingdom",
+        "docs/evidence/github-publication.json"
+      ],
+      "notes": "주 개발 에이전트가 CLI를 실행함. 별도 에이전트·추가 스킬·GitHub 커넥터 호출 없음"
     }
   ],
   "recording_policy": "실제 적용한 지침과 실제 실행한 도구를 구분한다. 별도 에이전트를 실행한 경우에만 실제 작업 ID·담당 파일·산출물·검토 결과를 추가한다. 향후 계획을 실행 기록으로 쓰지 않는다.",

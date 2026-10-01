@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-01",
+  "repository": "https://github.com/centuruk/ChaosKingdom",
+  "owner": "centuruk",
+  "visibility": "PUBLIC",
+  "default_branch": "main",
+  "initial_commit": "f6ef1381ec33bfd828e92ff3b9920549caaec5dc",
+  "initial_push_verified": true,
+  "tracked_files_in_initial_commit": 189,
+  "excluded": [
+    "saves/",
+    "exports/",
+    "reports/",
+    ".venv/",
+    "build/",
+    "dist/",
+    "releases/",
+    "caches and local credentials"
+  ],
+  "tools": [
+    "Git",
+    "GitHub CLI (gh)"
+  ],
+  "additional_agents": [],
+  "additional_skills": [],
+  "github_actions_result": "not assessed in this publication record"
+}
